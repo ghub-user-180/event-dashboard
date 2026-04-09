@@ -48,6 +48,7 @@ export default function MonitoringClient({
   categories: Category[]
 }) {
   const [bookmarkCatFilter, setBookmarkCatFilter] = useState<string>('all')
+  const [dashboardCatFilter, setDashboardCatFilter] = useState<string>('all')
   const [statusFilter, setStatusFilter] = useState<string>('all')
   const [healthResults, setHealthResults] = useState<Map<string, HealthResult>>(new Map())
   const [isChecking, setIsChecking] = useState(false)
@@ -61,6 +62,8 @@ export default function MonitoringClient({
   // Apply filters
   const filtered = sources.filter((s) => {
     if (bookmarkCatFilter !== 'all' && s.bookmarkCategory !== bookmarkCatFilter) return false
+    if (dashboardCatFilter === 'null' && s.dashboardCategory !== null) return false
+    if (dashboardCatFilter !== 'all' && dashboardCatFilter !== 'null' && s.dashboardCategory !== dashboardCatFilter) return false
     if (statusFilter !== 'all' && s.status !== statusFilter) return false
     return true
   })
@@ -135,7 +138,8 @@ export default function MonitoringClient({
       {/* Filters */}
       <div className="space-y-2 mb-4">
         {/* Status */}
-        <div className="flex gap-2 flex-wrap">
+        <div className="flex gap-2 flex-wrap items-center">
+          <span className="text-xs text-gray-400 w-24 shrink-0">Status</span>
           {(['all', 'active', 'pending', 'no-event-relevance'] as const).map((s) => (
             <button
               key={s}
@@ -146,13 +150,52 @@ export default function MonitoringClient({
                   : 'bg-white text-gray-600 border-gray-200 hover:border-gray-400'
               }`}
             >
-              {s === 'all' ? 'Alle Status' : STATUS_LABELS[s]}
+              {s === 'all' ? 'Alle' : STATUS_LABELS[s]}
             </button>
           ))}
         </div>
 
+        {/* Dashboard categories */}
+        <div className="flex gap-1.5 flex-wrap items-center">
+          <span className="text-xs text-gray-400 w-24 shrink-0">Dashboard</span>
+          <button
+            onClick={() => setDashboardCatFilter('all')}
+            className={`px-3 py-1 rounded-full text-xs font-medium border transition ${
+              dashboardCatFilter === 'all'
+                ? 'bg-indigo-600 text-white border-indigo-600'
+                : 'bg-white text-gray-500 border-gray-200 hover:border-indigo-300'
+            }`}
+          >
+            Alle
+          </button>
+          {categories.map((cat) => (
+            <button
+              key={cat.id}
+              onClick={() => setDashboardCatFilter(cat.id)}
+              className={`px-3 py-1 rounded-full text-xs font-medium border transition ${
+                dashboardCatFilter === cat.id
+                  ? 'bg-indigo-600 text-white border-indigo-600'
+                  : 'bg-white text-gray-500 border-gray-200 hover:border-indigo-300'
+              }`}
+            >
+              {cat.icon} {cat.label}
+            </button>
+          ))}
+          <button
+            onClick={() => setDashboardCatFilter('null')}
+            className={`px-3 py-1 rounded-full text-xs font-medium border transition ${
+              dashboardCatFilter === 'null'
+                ? 'bg-indigo-600 text-white border-indigo-600'
+                : 'bg-white text-gray-500 border-gray-200 hover:border-indigo-300'
+            }`}
+          >
+            — Ohne Kategorie
+          </button>
+        </div>
+
         {/* Bookmark categories */}
-        <div className="flex gap-1.5 flex-wrap">
+        <div className="flex gap-1.5 flex-wrap items-center">
+          <span className="text-xs text-gray-400 w-24 shrink-0">Bookmark</span>
           {bookmarkCats.map((cat) => (
             <button
               key={cat}
@@ -163,7 +206,7 @@ export default function MonitoringClient({
                   : 'bg-white text-gray-500 border-gray-200 hover:border-blue-300'
               }`}
             >
-              {cat === 'all' ? 'Alle Kategorien' : cat}
+              {cat === 'all' ? 'Alle' : cat}
             </button>
           ))}
         </div>
