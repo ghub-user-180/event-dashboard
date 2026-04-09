@@ -10,9 +10,17 @@ export default async function DashboardPage() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
-      <header className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">Event Dashboard</h1>
-        <p className="text-gray-500 mt-1">Nächste Events auf einen Blick</p>
+      <header className="mb-8 flex items-start justify-between">
+        <div>
+          <h1 className="text-3xl font-bold text-gray-900">Event Dashboard</h1>
+          <p className="text-gray-500 mt-1">Nächste Events auf einen Blick</p>
+        </div>
+        <Link
+          href="/monitoring"
+          className="text-xs text-gray-400 hover:text-gray-600 border border-gray-200 hover:border-gray-300 rounded-lg px-3 py-1.5 transition mt-1"
+        >
+          ⚙ Quellen
+        </Link>
       </header>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -72,7 +80,7 @@ function CategoryTile({
                   {e.title}
                 </div>
                 <div className="text-xs text-gray-400 flex gap-2">
-                  <span>{formatDateRange(e.startDate, e.endDate)}</span>
+                  <span>{formatDateRange(e.startDate, e.endDate, e.startTime, e.endTime)}</span>
                   {e.city && <span>· {e.city}</span>}
                 </div>
               </li>

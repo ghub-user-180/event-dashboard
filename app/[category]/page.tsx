@@ -81,7 +81,7 @@ function EventCard({ event: e }: { event: Event }) {
           </h2>
 
           <div className="mt-1 flex flex-wrap gap-x-3 gap-y-0.5 text-sm text-gray-500">
-            <span>📅 {formatDateRange(e.startDate, e.endDate)}</span>
+            <span>📅 {formatDateRange(e.startDate, e.endDate, e.startTime, e.endTime)}</span>
             <span>📍 {e.location}</span>
             {e.source === 'luma' && (
               <span className="text-blue-400 text-xs">via Luma</span>

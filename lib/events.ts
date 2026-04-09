@@ -17,16 +17,33 @@ export function isWithinDays(dateStr: string, days: number): boolean {
   return diff >= 0 && diff <= days
 }
 
-export function formatDateRange(startDate: string, endDate?: string): string {
+export function formatDateRange(
+  startDate: string,
+  endDate?: string,
+  startTime?: string,
+  endTime?: string
+): string {
   const start = new Date(startDate)
   const opts: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'short', year: 'numeric' }
-  if (!endDate) return start.toLocaleDateString('de-CH', opts)
 
-  const end = new Date(endDate)
-  if (start.getFullYear() === end.getFullYear() && start.getMonth() === end.getMonth()) {
-    return `${start.getDate()}–${end.getDate()}. ${start.toLocaleDateString('de-CH', { month: 'short', year: 'numeric' })}`
+  let dateStr: string
+  if (!endDate) {
+    dateStr = start.toLocaleDateString('de-CH', opts)
+  } else {
+    const end = new Date(endDate)
+    if (start.getFullYear() === end.getFullYear() && start.getMonth() === end.getMonth()) {
+      dateStr = `${start.getDate()}–${end.getDate()}. ${start.toLocaleDateString('de-CH', { month: 'short', year: 'numeric' })}`
+    } else {
+      dateStr = `${start.toLocaleDateString('de-CH', opts)} – ${end.toLocaleDateString('de-CH', opts)}`
+    }
   }
-  return `${start.toLocaleDateString('de-CH', opts)} – ${end.toLocaleDateString('de-CH', opts)}`
+
+  if (startTime) {
+    const timeStr = endTime ? `${startTime}–${endTime} Uhr` : `${startTime} Uhr`
+    return `${dateStr} · ${timeStr}`
+  }
+
+  return dateStr
 }
 
 // Fetch events from Luma public API (requires LUMA_API_KEY env var)
@@ -48,11 +65,15 @@ async function fetchLumaEvents(): Promise<Event[]> {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     return (data.events ?? []).map((item: any): Event => {
       const e = item.event ?? item
+      const startAt: string = e.start_at ?? e.start_date ?? ''
+      const endAt: string = e.end_at ?? ''
       return {
         id: `luma-${e.api_id ?? e.id}`,
         title: e.name ?? e.title ?? 'Unbekannt',
-        startDate: (e.start_at ?? e.start_date ?? '').split('T')[0],
-        endDate: e.end_at ? e.end_at.split('T')[0] : undefined,
+        startDate: startAt.split('T')[0],
+        endDate: endAt ? endAt.split('T')[0] : undefined,
+        startTime: startAt.includes('T') ? startAt.split('T')[1].substring(0, 5) : undefined,
+        endTime: endAt.includes('T') ? endAt.split('T')[1].substring(0, 5) : undefined,
         location: e.geo_address_json?.description ?? e.location ?? 'Schweiz',
         city: e.geo_address_json?.city ?? '',
         category: 'sozialleben',

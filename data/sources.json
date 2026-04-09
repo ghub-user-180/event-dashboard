@@ -1,0 +1,2430 @@
+[
+  {
+    "id": "23robadors",
+    "name": "23Robadors – Bar & Música Barcelona",
+    "url": "https://23robadors.com/",
+    "bookmarkCategory": "Ausgehen-Ausland",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Bar in Barcelona, kein Event-Kalender"
+  },
+  {
+    "id": "harlemjazzclub",
+    "name": "Harlem Jazz Club Barcelona",
+    "url": "https://www.harlemjazzclub.es/en/",
+    "bookmarkCategory": "Ausgehen-Ausland",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Konzertprogramm vorhanden"
+  },
+  {
+    "id": "geoguessr",
+    "name": "GeoGuessr",
+    "url": "https://www.geoguessr.com/de/join",
+    "bookmarkCategory": "Ausgehen-Ausland",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Online-Spiel, kein Event-Bezug"
+  },
+  {
+    "id": "sudpol",
+    "name": "Südpol Luzern – Programm",
+    "url": "https://www.sudpol.ch/programm/",
+    "bookmarkCategory": "Ausgehen-Luzern",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Kulturzentrum mit strukturiertem Programm"
+  },
+  {
+    "id": "kioskiosk",
+    "name": "kiosk – Programm Luzern",
+    "url": "https://www.kioskiosk.ch/",
+    "bookmarkCategory": "Ausgehen-Luzern",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "jazzkantine",
+    "name": "Jazzkantine Luzern",
+    "url": "https://www.jazzkantine.com/",
+    "bookmarkCategory": "Ausgehen-Luzern",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "schuur",
+    "name": "Konzerthaus Schüür – Programm",
+    "url": "https://www.schuur.ch/programm/",
+    "bookmarkCategory": "Ausgehen-Luzern",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Strukturierte Programmseite, gut scrapbar"
+  },
+  {
+    "id": "bar59",
+    "name": "Bar59 Luzern",
+    "url": "https://bar59.ch/",
+    "bookmarkCategory": "Ausgehen-Luzern",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Bar ohne Event-Kalender"
+  },
+  {
+    "id": "pier17",
+    "name": "Pier 17 – Bar & Bistro",
+    "url": "https://www.pier17.ch/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "puntolatino",
+    "name": "Punto Latino",
+    "url": "https://www.puntolatino.ch/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "seelandbraeu",
+    "name": "Seelandbräu",
+    "url": "https://www.seelandbräu.ch/en/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "stgervais",
+    "name": "St.Gervais Genf",
+    "url": "https://stgervais.ch/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": "ausgehen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Kulturzentrum Genf"
+  },
+  {
+    "id": "luma",
+    "name": "Luma – Events entdecken",
+    "url": "https://lu.ma/discover",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": "sozialleben",
+    "type": "api",
+    "status": "active",
+    "notes": "API konfiguriert, wartet auf LUMA_API_KEY in Vercel env"
+  },
+  {
+    "id": "social-circle",
+    "name": "Social Circle Zürich",
+    "url": "https://social-circle.ch/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "glocals",
+    "name": "Glocals – Expat Community Switzerland",
+    "url": "https://www.glocals.com/",
+    "bookmarkCategory": "Ausgehen-Schweiz",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Grösste Expat-Community CH, hat Event-Listings"
+  },
+  {
+    "id": "allhandsandhearts",
+    "name": "All Hands and Hearts",
+    "url": "https://www.allhandsandhearts.org/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Katastrophenhilfe, keine regelmässigen Events"
+  },
+  {
+    "id": "afs-ch",
+    "name": "AFS Interkulturelle Programme",
+    "url": "https://www.afs.ch/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Austauschprogramme, kein Event-Kalender"
+  },
+  {
+    "id": "giz",
+    "name": "GIZ – Auslands-Stipendien",
+    "url": "https://www.giz.de/de/html/index.html",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "bee-flat",
+    "name": "bee-flat im PROGR – Einsatzplan",
+    "url": "https://www.bee-flat.ch/einsatzplan",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Freiwilligen-Einsatzplan"
+  },
+  {
+    "id": "bene-unibe",
+    "name": "BENE Uni Bern",
+    "url": "https://www.bene-unibe.ch/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "bergeinsatz",
+    "name": "Caritas Bergeinsatz",
+    "url": "https://www.bergeinsatz.ch/de/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Saisonale Bergbauern-Einsätze"
+  },
+  {
+    "id": "erasmus-entrepreneurs",
+    "name": "Erasmus for Young Entrepreneurs",
+    "url": "https://www.erasmus-entrepreneurs.eu/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "helpx",
+    "name": "HelpX – Work Exchange Abroad",
+    "url": "https://www.helpx.net/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "icye",
+    "name": "ICYE – International Cultural Youth Exchange",
+    "url": "https://www.icye.ch/de/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "ifil",
+    "name": "IFIL – Initiative for Intercultural Learning",
+    "url": "https://ifil.ch/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "mladiinfo",
+    "name": "Mladiinfo – Scholarships & Grants",
+    "url": "https://mladiinfo.eu/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "na-bibb",
+    "name": "Nationale Agentur Bildung für Europa",
+    "url": "https://www.na-bibb.de/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "ngo-global",
+    "name": "NGO Global Network",
+    "url": "https://www.ngo.org/index2.htm",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "scich",
+    "name": "SCI – 1000 Workcamps in 90 Ländern",
+    "url": "https://scich.org/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Workcamp-Kalender vorhanden"
+  },
+  {
+    "id": "sosense",
+    "name": "Sosense – Your Social Impact",
+    "url": "https://www.sosense.org/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "worldpackers",
+    "name": "Worldpackers",
+    "url": "https://www.worldpackers.com/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "zalp",
+    "name": "zalp.ch",
+    "url": "https://zalp.ch/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "friedensdorf",
+    "name": "Friedensdorf / Village de la Paix",
+    "url": "https://villagedelapaix.ch/de/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "zegg",
+    "name": "ZEGG Gemeinschaft & Bildungszentrum",
+    "url": "https://www.zegg.de/de/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Seminar- und Retreat-Programm"
+  },
+  {
+    "id": "hackergarten",
+    "name": "Hackergarten",
+    "url": "https://www.hackergarten.net/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "karmalama",
+    "name": "Karma Lama",
+    "url": "https://www.karmalama.ch/",
+    "bookmarkCategory": "Austausch-Volunteering",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "bluewin-taeler",
+    "name": "Bluewin – Einsame Schweizer Täler",
+    "url": "https://www.bluewin.ch/de/leben/reisen/9-einsame-aber-wunderschoene-schweizer-taeler-128392.html",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Blogartikel, kein Event"
+  },
+  {
+    "id": "esvolten",
+    "name": "Eisenbahner-Sportverein Olten – Schneesporttage",
+    "url": "https://www.esvolten.ch/ausschreibung-schneesporttage-2018/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Alte Seite von 2018"
+  },
+  {
+    "id": "bergportal",
+    "name": "bergportal.ch",
+    "url": "https://www.bergportal.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "bergpunkt",
+    "name": "bergpunkt – weiterkommen am berg",
+    "url": "https://bergpunkt.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "gipfelbuch",
+    "name": "Gipfelbuch.ch",
+    "url": "https://www.gipfelbuch.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "snow-kandersteg",
+    "name": "Schneebericht Kandersteg",
+    "url": "https://snow.myswitzerland.com/schneebericht/kandersteg-96/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "kletterportal",
+    "name": "Kletterportal.ch – Kurse & Partner",
+    "url": "https://www.kletterportal.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Kletterkurse und Events"
+  },
+  {
+    "id": "sandozconcept",
+    "name": "Sandoz Concept – Ski & Langlauf",
+    "url": "https://www.sandozconcept.com/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "mountainwilderness",
+    "name": "Mountain Wilderness Schweiz",
+    "url": "https://mountainwilderness.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "outdooralbania",
+    "name": "Outdoor Albania – Peaks of the Balkans",
+    "url": "https://www.outdooralbania.com/peaks-of-the-balkans/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "sac-zug",
+    "name": "SAC Sektion Rossberg Zug",
+    "url": "https://www.sac-zug.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Sektionstouren-Programm"
+  },
+  {
+    "id": "sac-cas",
+    "name": "Schweizer Alpen-Club SAC",
+    "url": "https://www.sac-cas.ch/de/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": "sport",
+    "type": "manual",
+    "status": "active",
+    "notes": "Manueller Event: SAC Tourenprogramm 2026"
+  },
+  {
+    "id": "skidefond",
+    "name": "Ski de Fond",
+    "url": "https://www.skidefond.ch/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "swisshiking",
+    "name": "Swisshiking.ch",
+    "url": "https://www.swisshiking.ch/de",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "montblanc",
+    "name": "Tour du Mont Blanc",
+    "url": "https://www.autourdumontblanc.com/en/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "snow-reports",
+    "name": "Wintersportberichte MySwitzerland",
+    "url": "https://snow.myswitzerland.com/snow_reports/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wegwandern",
+    "name": "WegWandern.ch – Rundwanderungen",
+    "url": "https://wegwandern.ch/rundwanderungen-rundwanderwege-schweiz/",
+    "bookmarkCategory": "Berg/Schnee CH",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "cloudcitadel",
+    "name": "Cloud Citadel – Coliving Hautes-Alpes",
+    "url": "https://cloudcitadel.co/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "co404",
+    "name": "Co.404 – Coliving San Cristobal",
+    "url": "https://co404.com/san-cristobal",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "cocohub",
+    "name": "CoCoHub Malta",
+    "url": "https://cocohub.io/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "coliving-barcelona",
+    "name": "Coliving Barcelona",
+    "url": "https://coliving.com/barcelona",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "playworking",
+    "name": "Coliving Montenegro – Playworking",
+    "url": "https://www.playworking.me/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "coliving-com",
+    "name": "Coliving.com",
+    "url": "https://coliving.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "karismaliving",
+    "name": "Karisma Living Barcelona",
+    "url": "https://www.karismaliving.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "ninecoliving",
+    "name": "Nine Coliving",
+    "url": "https://www.ninecoliving.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "sende",
+    "name": "Sende – Rural Coworking Spain",
+    "url": "https://www.sende.co/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "coworkinginthesun",
+    "name": "Coworking in the Sun – Tenerife",
+    "url": "https://www.coworkinginthesun.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "digitalnomads-madeira",
+    "name": "Digital Nomads Madeira – Long Stay",
+    "url": "https://digitalnomads.startupmadeira.eu/long-stay-madeira-islands/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "mokrinhouse",
+    "name": "Mokrin House",
+    "url": "https://mokrinhouse.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadvillagebrazil",
+    "name": "Nomad Village Brazil",
+    "url": "https://nomadvillagebrazil.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "pandorahub",
+    "name": "PandoraHub – Rural Living",
+    "url": "https://www.pandorahub.co/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "sun-and-co",
+    "name": "Sun and Co. – Coliving Javea",
+    "url": "https://sun-and-co.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Hat Workation-Retreats / Events"
+  },
+  {
+    "id": "sundesk",
+    "name": "SunDesk – Coworking Taghazout",
+    "url": "https://sun-desk.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "webworktravel",
+    "name": "Tarifa Workation Camp",
+    "url": "https://www.webworktravel.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadretreats",
+    "name": "Nomad Retreats",
+    "url": "https://www.nomadretreats.co/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "nomadintransylvania",
+    "name": "Nomad in Transylvania",
+    "url": "https://www.nomadintransylvania.com/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "pomar-coliving",
+    "name": "POMAR Coliving Algarve",
+    "url": "https://pomar-coliving.com/en/",
+    "bookmarkCategory": "Co-Livings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "okcupid",
+    "name": "OkCupid",
+    "url": "https://www.okcupid.com/login",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "badoo",
+    "name": "Badoo",
+    "url": "https://badoo.com/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "conscious-love",
+    "name": "Conscious:Love – Bewusste Beziehungen",
+    "url": "https://conscious-love.com/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Hat Workshops und Events"
+  },
+  {
+    "id": "kinconnect",
+    "name": "Kin – Meet Strangers for Coffee",
+    "url": "https://www.kinconnect.com/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "vidaselect",
+    "name": "VIDA Select – Matchmaker",
+    "url": "https://www.vidaselect.com/faq",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "vidaconsultancy",
+    "name": "Maclynn / VIDA Consultancy",
+    "url": "https://vidaconsultancy.smartmatchapp.com/client/41717/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "maclynn",
+    "name": "Maclynn International – Matchmaker",
+    "url": "https://maclynninternational.com/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "latamdate",
+    "name": "LatamDate",
+    "url": "https://www.latamdate.com/",
+    "bookmarkCategory": "Dating",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "afuerafest",
+    "name": "AfueraFest",
+    "url": "https://afuerafest.de/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "templeoflight",
+    "name": "Temple of the Way of Light – Ayahuasca",
+    "url": "https://templeofthewayoflight.org/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "lebenshauch",
+    "name": "Breathwork Lebenshauch Luzern",
+    "url": "https://www.lebenshauch.ch/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "hillsong-denmark",
+    "name": "Hillsong Denmark – Kalender",
+    "url": "https://hillsongdenmark.churchcenter.com/calendar",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Church Center hat strukturierten Kalender"
+  },
+  {
+    "id": "der4temusketier",
+    "name": "der4temusketier",
+    "url": "https://www.der4temusketier.ch/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "taichibali",
+    "name": "Tai Chi Bali – Mountain Retreat",
+    "url": "https://taichibali.com/mountain-retreat/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "hermanosis",
+    "name": "HERMANOSIS",
+    "url": "https://hermanosis.com/en/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "hridaya-yoga",
+    "name": "Hridaya Yoga – Silent Meditation Retreats",
+    "url": "https://hridaya-yoga.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "larpcal",
+    "name": "LARP Calendar",
+    "url": "https://larpcal.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Aggregiert LARP-Events weltweit"
+  },
+  {
+    "id": "mission-ch",
+    "name": "mission.ch – Einsätze",
+    "url": "https://www.mission.ch/de/einsaetze.html",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "mucura",
+    "name": "Mucura",
+    "url": "https://en.mucura.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "setandsetting",
+    "name": "SET & SETTING Retreat",
+    "url": "https://www.setandsetting-retreat.com/retreats",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "sensualityfestival",
+    "name": "Festival of Sensuality – Czech Republic",
+    "url": "https://www.sensualityfestival.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "naturallifestyles",
+    "name": "The Natural Lifestyles",
+    "url": "https://thenaturallifestyles.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "vbg-net",
+    "name": "VBG – Agenda Ferien & Kurse",
+    "url": "https://www.vbg.net/agenda",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "VBG hat strukturierte Agenda-Seite"
+  },
+  {
+    "id": "vrairepaire",
+    "name": "Vrai Repaire Festival – Frankreich",
+    "url": "https://www.vrairepaire.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "campfi",
+    "name": "CampFI – Together We FI",
+    "url": "https://campfi.org/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "fifreedom",
+    "name": "FI Freedom Retreats",
+    "url": "https://www.fifreedomretreats.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "retreats",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "econome",
+    "name": "EconoMe Conference",
+    "url": "https://economeconference.com/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "ousuca",
+    "name": "OUSUCA – Self Reliance Survival Camp",
+    "url": "https://ousuca.com/survival-camp/",
+    "bookmarkCategory": "Festivals-Retreats-Konferenzen",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "planb",
+    "name": "Plan ₿ Forum Lugano",
+    "url": "https://planb.lugano.ch/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "cryptoevents-global",
+    "name": "Crypto Events Global",
+    "url": "https://cryptoevents.global/point-zero-forum-2025-zurich/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Aggregator für Crypto-Events"
+  },
+  {
+    "id": "bitblockboom",
+    "name": "BitBlockBoom! Conference",
+    "url": "https://bitblockboom.com/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "baltichoneybadger",
+    "name": "Baltic Honeybadger – Bitcoin Conference",
+    "url": "https://baltichoneybadger.com/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "bitvocation",
+    "name": "Bitvocation – Bitcoin Conferences",
+    "url": "https://bitvocation.com/bitcoin-conferences-discounts",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Aggregator mit Rabattcodes für Bitcoin-Konferenzen"
+  },
+  {
+    "id": "libertycon",
+    "name": "LibertyCon Europe",
+    "url": "https://libertycon.net/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "pointzeroforum",
+    "name": "Point Zero Forum Zürich",
+    "url": "https://www.pointzeroforum.com/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "hcpp",
+    "name": "Hackers Congress Paralelní Polis 2016",
+    "url": "https://hardcore.hcpp.cz/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Alte Seite von 2016 – aktuell unter paralelnipolis.cz"
+  },
+  {
+    "id": "paralelnipolis",
+    "name": "Paralelní Polis – HCPP",
+    "url": "https://paralelnipolis.cz/o-nas/en/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "liberty-intl",
+    "name": "LIWC 2025 Buenos Aires",
+    "url": "https://liberty-intl.org/liwc2025/",
+    "bookmarkCategory": "Konferenzen",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "ba-digital-nomads",
+    "name": "BA Digital Nomads – Linktree",
+    "url": "https://linktr.ee/BADigitalNomads",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "boundless-life",
+    "name": "Boundless Life – Nomad Families",
+    "url": "https://www.boundless.life/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "hackerparadise",
+    "name": "Hacker Paradise",
+    "url": "https://www.hackerparadise.org/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Community Travel Events für Remote Workers"
+  },
+  {
+    "id": "nomadays",
+    "name": "Nomadays – Local Travel Agents",
+    "url": "https://www.nomadays.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "soulquest",
+    "name": "Soulquest – Conscious Nomad Community",
+    "url": "https://www.soulquest.life/brazil",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "csalt",
+    "name": "CSALT – Christian Surfers Africa",
+    "url": "https://csalt.co.za/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomads-chat",
+    "name": "Nomad List – Forum",
+    "url": "https://nomads.com/chat",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "economadia",
+    "name": "Economadia",
+    "url": "https://economadia.org/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "guanajahills",
+    "name": "Guanaja Hills",
+    "url": "https://guanajahills.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "joinmytrip",
+    "name": "JoinMyTrip",
+    "url": "https://www.joinmytrip.com/en/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "lifeatseacruises",
+    "name": "Life at Sea Cruises",
+    "url": "https://www.lifeatseacruises.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "digitalenomaden-ch",
+    "name": "Digitalenomaden.ch – Blog",
+    "url": "https://www.digitalenomaden.ch/blog/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadlist",
+    "name": "Nomad List",
+    "url": "https://nomads.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadx",
+    "name": "NomadX Community",
+    "url": "https://www.nomadx.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "digitalnomadsnation",
+    "name": "Digital Nomads Nation",
+    "url": "https://digitalnomadsnation.org/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wildwifi",
+    "name": "Wild WiFi – Coliving Namibia",
+    "url": "https://www.wildwifi.co/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "remoteyear",
+    "name": "Remote Year",
+    "url": "https://www.remoteyear.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "transitionsabroad",
+    "name": "TransitionsAbroad.com",
+    "url": "https://www.transitionsabroad.com/index.shtml",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "travelinglifestyle",
+    "name": "Traveling Lifestyle – Nomad Events",
+    "url": "https://www.travelinglifestyle.net/digital-nomad-conferences-retreats-events-2024/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Aggregiert Nomad Conferences & Retreats"
+  },
+  {
+    "id": "mondamo",
+    "name": "Mondamo – Alternative Lebensgemeinschaften",
+    "url": "https://www.mondamo.de/linklist/weltkarte.php",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "weroad",
+    "name": "WeRoad – Group Adventures",
+    "url": "https://www.weroad.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wifitribe",
+    "name": "WiFi Tribe",
+    "url": "https://wifitribe.co/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "worldnomads",
+    "name": "World Nomads (Versicherung)",
+    "url": "https://www.worldnomads.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Reiseversicherung, kein Event-Bezug"
+  },
+  {
+    "id": "bookretreats",
+    "name": "BookRetreats.com",
+    "url": "https://bookretreats.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Grösster Retreat-Aggregator weltweit"
+  },
+  {
+    "id": "minoma-retreat",
+    "name": "MINOMA Retreat",
+    "url": "https://retreats.minoma.co/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "nomads-in-paradise",
+    "name": "Nomads in Paradise",
+    "url": "https://nomads-in-paradise.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "nomadcruise-16",
+    "name": "Nomad Cruise 16 Guide",
+    "url": "https://nomadbase.notion.site/Nomad-Cruise-16-Guide-203e27ceeec980db87c9c7f19ae49a6d",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Vergangene Edition"
+  },
+  {
+    "id": "nomadtable",
+    "name": "nomadtable – Travel Friends App",
+    "url": "https://play.google.com/store/apps/details?id=jayraavi.SoloMatch",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "tonyventura",
+    "name": "Tony Ventura – Speaker",
+    "url": "https://www.tonyventura.co/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "project-nomad-github",
+    "name": "Project N.O.M.A.D – GitHub",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Open-Source-Projekt, kein Event"
+  },
+  {
+    "id": "nomadcruise-11",
+    "name": "Nomad Cruise 11 Guide",
+    "url": "https://nomadbase.notion.site/Nomad-Cruise-11-Guide-9447bc17d74e4ffe8b4c8460fe922de4",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadcruise-12",
+    "name": "Nomad Cruise 12 Guide",
+    "url": "https://nomadbase.notion.site/Nomad-Cruise-12-Guide-2c03f7d4347e49d4a887d367df191e42",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "nomadcruise-13",
+    "name": "Nomad Cruise 13 Guide",
+    "url": "https://nomadbase.notion.site/Nomad-Cruise-13-Guide-926f11c0836849dfbe47c6edf72676be",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "banskonomadfest",
+    "name": "Bansko Nomad Fest",
+    "url": "https://www.banskonomadfest.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "festivals-konferenzen",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "mindvalley",
+    "name": "Mindvalley",
+    "url": "https://www.mindvalley.com/",
+    "bookmarkCategory": "Nomadthings",
+    "dashboardCategory": "retreats",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Grosse Persönlichkeitsentwicklungs-Plattform mit Events"
+  },
+  {
+    "id": "burginfamily",
+    "name": "Burgin's Family Ranch",
+    "url": "https://www.burginfamily.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "palominoranch",
+    "name": "Palomino Ranch – Westernreiten Säuliamt",
+    "url": "https://www.palominoranch.ch/index.php",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "rancho-la-paz",
+    "name": "Rancho La Paz – Reiten Andalusien",
+    "url": "https://rancho-la-paz.com/startseite/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "reitenundyoga",
+    "name": "Reiten & Yoga",
+    "url": "https://www.reitenundyoga.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "swra",
+    "name": "SWRA – Swiss Western Riding Association",
+    "url": "https://swra.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Turniere und Kurse"
+  },
+  {
+    "id": "tatanka-ranch",
+    "name": "Tatanka Ranch",
+    "url": "https://www.tatanka-ranch.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "westerner-ch",
+    "name": "Westerner.ch",
+    "url": "https://www.westerner.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wikinger-ranch",
+    "name": "Wikinger Ranch",
+    "url": "https://wikinger-ranch.ch/",
+    "bookmarkCategory": "Reiten",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "tallinn-summerschool",
+    "name": "Tallinn University Summer School",
+    "url": "https://summerschool.tlu.ee/russian-language/",
+    "bookmarkCategory": "Sommer-Schools",
+    "dashboardCategory": "austausch",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "summerschoolsineurope",
+    "name": "Summer Schools in Europe",
+    "url": "https://www.summerschoolsineurope.eu/",
+    "bookmarkCategory": "Sommer-Schools",
+    "dashboardCategory": "austausch",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Aggregator für Sommerschulen in Europa"
+  },
+  {
+    "id": "noii",
+    "name": "noii – Events & Community",
+    "url": "https://www.noii.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Auch in: Dating"
+  },
+  {
+    "id": "meetbychance",
+    "name": "MeetByChance – Singles Community",
+    "url": "https://www.meetbychance.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Auch in: Dating"
+  },
+  {
+    "id": "barhopping",
+    "name": "Barhopping für Singles",
+    "url": "https://barhopping.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "manual",
+    "status": "active",
+    "notes": "Auch in: Dating"
+  },
+  {
+    "id": "timeleft",
+    "name": "Timeleft – Dinner mit Unbekannten",
+    "url": "https://timeleft.com/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "manual",
+    "status": "active",
+    "notes": "Auch in: Dating. Wöchentlich mittwochs."
+  },
+  {
+    "id": "gadwas",
+    "name": "GADWAS Verein",
+    "url": "https://www.gadwas.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "lilicentre",
+    "name": "LiLi Centre",
+    "url": "https://lilicentre.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "rcbe",
+    "name": "Rhetorik Club Bern – Toastmasters",
+    "url": "https://rcbe.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "toastmasters-bern",
+    "name": "Toastmasters Bern Club",
+    "url": "https://www.toastmasters.org/Find-a-Club/00003436-bern-toastmasters-club",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "rhetorikclubs",
+    "name": "Rhetorik Clubs Schweiz",
+    "url": "https://www.rhetorikclubs.ch/",
+    "bookmarkCategory": "Sozialleben",
+    "dashboardCategory": "sozialleben",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "caribedance",
+    "name": "Caribe Dance Schule",
+    "url": "https://caribedance.ch/kontakt",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "contactimprovisation",
+    "name": "contactimprovisation.ch",
+    "url": "https://www.contactimprovisation.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "cubailaviena",
+    "name": "Cubaila Viena",
+    "url": "https://cubailaviena.at/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Wien-spezifisch"
+  },
+  {
+    "id": "salsalovers",
+    "name": "Salsa Lovers Worldwide",
+    "url": "https://www.salsaloversworldwide.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "danceabroad",
+    "name": "DanceAbroad",
+    "url": "https://danceabroad.com/index.html",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "danses-darc",
+    "name": "Danse DARC – Festival",
+    "url": "https://www.danses-darc.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "ecstaticdancebern",
+    "name": "Ecstatic Dance Bern",
+    "url": "https://ecstaticdancebern.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Regelmässige Events, gut scrapbar"
+  },
+  {
+    "id": "forroaare",
+    "name": "Forró Aare",
+    "url": "https://www.forroaare.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "fulldance",
+    "name": "Full Dance – Barcelona",
+    "url": "https://fulldance.net/contacto/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Barcelona-spezifisch"
+  },
+  {
+    "id": "kulturhof",
+    "name": "KULTURHOF Schloss Köniz",
+    "url": "https://www.kulturhof.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "lasalsera",
+    "name": "La Salsera Barcelona",
+    "url": "https://lasalsera.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Barcelona-spezifisch"
+  },
+  {
+    "id": "latinpromotion",
+    "name": "Latin Promotion – Salsakurse Zug",
+    "url": "https://latinpromotion.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "latinpromotion-kalender",
+    "name": "Latin Promotion – Salsa-Kalender",
+    "url": "https://latinpromotion.ch/salsa-kalender/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Explizite Kalenderseite – hohe Priorität für Scraping"
+  },
+  {
+    "id": "leapinlindy",
+    "name": "Leapin' Lindy 2016 Bern",
+    "url": "https://leapinlindy.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Event von 2016, veraltet"
+  },
+  {
+    "id": "salsaforums",
+    "name": "Salsa Forums",
+    "url": "https://www.salsaforums.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "tanzevents",
+    "name": "tanzevents.ch – Salsa & Bachata",
+    "url": "https://tanzevents.ch/events.php?read_group=12",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Schweizer Tanz-Event-Aggregator, strukturierte Seite"
+  },
+  {
+    "id": "muevete",
+    "name": "muevete – Salsa-Partys Bern",
+    "url": "https://muevete.ch/salsaparties/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Explizite Party-Liste, gut scrapbar"
+  },
+  {
+    "id": "salsabrosa",
+    "name": "Salsabrosa",
+    "url": "https://salsabrosa.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "salsadancers",
+    "name": "Salsadancers – Bern & Thun",
+    "url": "https://salsadancers.ch/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "sevendance",
+    "name": "Seven Dance Barcelona",
+    "url": "https://www.sevendance.com/es/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Barcelona-spezifisch"
+  },
+  {
+    "id": "simplyforro",
+    "name": "simplyforro – Notion Kalender",
+    "url": "https://simplyforro.notion.site/42f9fe6ead9544338eb4d5ee5c85e13e",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "api",
+    "status": "pending",
+    "notes": "Notion-Datenbank – Notion API nutzbar"
+  },
+  {
+    "id": "swingplanit",
+    "name": "SwingPlanIt – Worldwide Swing Dance Events",
+    "url": "https://www.swingplanit.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Weltweiter Aggregator für Swing-Events"
+  },
+  {
+    "id": "tanzevents-all",
+    "name": "tanzevents.ch – Alle Tanzevents",
+    "url": "https://tanzevents.ch/-tanzen/de/events/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Breitere Ansicht von tanzevents.ch"
+  },
+  {
+    "id": "danceplacegrapevine",
+    "name": "The Dancing Grapevine",
+    "url": "https://danceplace.com/grapevine/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "forrovemvem",
+    "name": "Vem Vem – Forró Events",
+    "url": "https://forrovemvem.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "leondanceart",
+    "name": "Leon Dance Art – Interlaken & Bern",
+    "url": "https://leondanceart.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "tango-zurich",
+    "name": "Tango Wave Zürich",
+    "url": "https://www.tango-zurich.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "salsarica",
+    "name": "SalsaRica Zürich",
+    "url": "https://salsarica.ch/home.html",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "laviruta",
+    "name": "Viruta Tango Club Buenos Aires",
+    "url": "https://lavirutatangoclub.com/",
+    "bookmarkCategory": "Tanz",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Buenos Aires-spezifisch"
+  },
+  {
+    "id": "cictheater",
+    "name": "CIC Theater Chicago",
+    "url": "https://www.cictheater.com/classes-info",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Chicago-spezifisch"
+  },
+  {
+    "id": "verstoerten-wunschkinder",
+    "name": "Die Verstörten Wunschkinder",
+    "url": "https://www.die-verstoerten-wunschkinder.de/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "improberlin",
+    "name": "ImproBerlin",
+    "url": "https://improberlin.de/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Berlin-spezifisch"
+  },
+  {
+    "id": "attento",
+    "name": "attento – Improkurse",
+    "url": "https://www.attento.ch/impro/kursprogramm",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "improwiki",
+    "name": "Improwiki – Gruppen Schweiz",
+    "url": "https://improwiki.com/de/wiki/improtheater/gruppen_in_der_schweiz",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Verzeichnis, kein Kalender"
+  },
+  {
+    "id": "pfirsi",
+    "name": "theater anundpfirsich",
+    "url": "https://pfirsi.ch/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "improv-ca",
+    "name": "improv.ca – Exercises",
+    "url": "https://improv.ca/exercises/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "learnimprov",
+    "name": "learnimprov.com",
+    "url": "https://www.learnimprov.com/exercises/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "planlos",
+    "name": "planlos.be – Improtheater Bern",
+    "url": "https://www.planlos.be/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "roseway",
+    "name": "Roseway Improtheater",
+    "url": "https://roseway.ch/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "theannoyance",
+    "name": "The Annoyance Theatre Chicago",
+    "url": "https://www.theannoyance.com/training",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Chicago-spezifisch"
+  },
+  {
+    "id": "thecaretakers",
+    "name": "The Caretakers",
+    "url": "https://www.thecaretakers.ch/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "yourstage",
+    "name": "theater anundpfirsich – Yourstage",
+    "url": "https://yourstage.live/authors/theater-anundpfirsich",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "theater-ohne-probe",
+    "name": "Theater ohne Probe",
+    "url": "https://www.theater-ohne-probe.de/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Deutschland-spezifisch"
+  },
+  {
+    "id": "theaterpaedagogik",
+    "name": "Theaterkurse – theaterpaedagogik.ch",
+    "url": "https://www.theaterpaedagogik.ch/kurs/kurse.php",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "eppstein",
+    "name": "Theaterstudio Golda Eppstein",
+    "url": "https://www.eppstein.ch/",
+    "bookmarkCategory": "Theater",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "bike-adventure-tours",
+    "name": "Bike Adventure Tours – Veloreisen",
+    "url": "https://bike-adventure-tours.ch/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "cycletouringfestival",
+    "name": "Cycle Touring Festival 2018",
+    "url": "https://cycletouringfestival.co.uk/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Event von 2018, veraltet"
+  },
+  {
+    "id": "veloscenie",
+    "name": "Véloscénie – Paris bis Mont-Saint-Michel",
+    "url": "https://www.veloscenie.com/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "pedalportugal",
+    "name": "Pedal Portugal",
+    "url": "https://pedalportugal.com/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "eurovelo",
+    "name": "EuroVelo 8 – Mediterranean Route",
+    "url": "https://en.eurovelo.com/ev8",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "womenscyclingguide",
+    "name": "Women's Cycling Guide",
+    "url": "https://womenscyclingguide.com/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "tritrainingharder",
+    "name": "Tri Training Harder – Triathlon Camps",
+    "url": "https://tritrainingharder.com/",
+    "bookmarkCategory": "Velo",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "aarebootsvermietung",
+    "name": "Aare BootsVermietung",
+    "url": "https://aarebootsvermietung.ch/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "aare-guru",
+    "name": "aare.guru – Aaretemperatur",
+    "url": "https://aare.guru/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "apneatotal",
+    "name": "Apnea Total – Freediving Koh Tao",
+    "url": "https://www.apneatotal.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "bielerseefreaks",
+    "name": "Bielerseefreaks – Windsurfer",
+    "url": "https://bielerseefreaks.ch/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "bisenoire",
+    "name": "Bise Noire – Surf Shop Murtensee",
+    "url": "https://www.bisenoire.ch/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "windfinder",
+    "name": "Windfinder – Windeinheiten",
+    "url": "https://de.windfinder.com/wind/windspeed.htm",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "foiling-school",
+    "name": "Foiling School – Wing & Foil Kurse",
+    "url": "https://foiling-school.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "halleforsvandrarhem",
+    "name": "Hällefors Vandrarhem & Kanotcenter",
+    "url": "https://www.halleforsvandrarhem.com/en/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "campinglemaior",
+    "name": "Camping Le Maior – Kite",
+    "url": "https://www.campinglemaior.it/de/kite/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "gardasee-kiteschule",
+    "name": "Kiteschule Gardasee – Kitesurf Adventure",
+    "url": "https://www.gardasee-kiteschule.de/de",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "vilamarola",
+    "name": "Kitesurf Hotel Vila Marola Brasilien",
+    "url": "https://www.vilamarola.com.br/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "kitecentergardalake",
+    "name": "Kitesurf Lake Garda – Courses",
+    "url": "https://www.kitecentergardalake.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "freeyourmind-kite",
+    "name": "Free Your Mind Kiteschool Tarifa",
+    "url": "https://freeyourmindexperience.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "xkite",
+    "name": "XKite – Kitesurf Gardasee",
+    "url": "https://www.xkite.it/index.html",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "surfline",
+    "name": "Surfline / Magicseaweed",
+    "url": "https://www.surfline.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "meerdavon",
+    "name": "meerdavon – Surf-Magazin",
+    "url": "https://meerdavon.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wingfoiltips-santpere",
+    "name": "Wingfoil Tips – Sant Pere Pescador",
+    "url": "https://wingfoiltips.com/spots/spain/girona/sant-pere-pescador-la-gola-del-fluvia/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "sicilykiteholiday",
+    "name": "Sicily Kite Holiday",
+    "url": "https://www.sicilykiteholiday.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "svt-beaufort",
+    "name": "SVT – Beaufort Tabelle",
+    "url": "https://www.svt.ch/index.php?tab=webcam/beaufort",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "waverocker",
+    "name": "WaveRocker Surfcamp",
+    "url": "https://www.waverocker.org/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "webcam-neuchatel",
+    "name": "Webcam Neuchâtel",
+    "url": "https://neuchatel.roundshot.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "windfinder-biel",
+    "name": "Windfinder – Bielersee",
+    "url": "https://www.windfinder.com/forecast/bieler_see",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "muchoviento",
+    "name": "muchoviento.net – Windvorhersage",
+    "url": "https://www.muchoviento.net/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "ycb",
+    "name": "Yacht Club Bielersee",
+    "url": "https://www.ycb.ch/clubdesk/www",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "wingpassion",
+    "name": "Wingpassion – Wing-Foil-Spots",
+    "url": "https://wingpassion.de/category/spotfinder-travel",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "wingfoiltips-europe",
+    "name": "Wingfoil Tips – Best Spots Europe",
+    "url": "https://wingfoiltips.com/best-wingfoil-spots-europe/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "sportintribe",
+    "name": "Sport in Tribe – Wing Foil Destinations",
+    "url": "https://www.sportintribe.com/best-wing-foil-destinations-in-europe/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "windsurfing-urnersee",
+    "name": "Windsurfing Urnersee – Wing Foil Kurse",
+    "url": "https://windsurfing-urnersee.ch/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "surfclub-uri",
+    "name": "Surfclub Uri",
+    "url": "https://surfclub-uri.ch/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "bhs-sisikon",
+    "name": "Bootshafen Sisikon BHS",
+    "url": "https://www.bhs.swiss/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "webcam-brunnen",
+    "name": "Webcam Brunnen / Vierwaldstättersee",
+    "url": "https://www.foto-webcam.eu/webcam/brunnen/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "unhooked-spotguide",
+    "name": "Spotguide – Unhooked.ch",
+    "url": "https://www.unhooked.ch/2008/spotguide/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "drwind",
+    "name": "Dr.Wind – Wingfoil Sao Miguel do Gostoso",
+    "url": "https://www.drwind.surf/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "kitefun",
+    "name": "Kitefun – Kite-Shuttle Urnersee & Comersee",
+    "url": "https://www.kitefun.ch/kiteshuttle/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "foilingschool-sisikon",
+    "name": "Swiss Foiling School – Kurse Sisikon",
+    "url": "https://foilingschool.swiss21-commerce.org/ki/Kurse-Sisikon.html",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "foilingcamps",
+    "name": "Foiling Camps",
+    "url": "https://foilingcamps.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "planetwingfoil",
+    "name": "Luxury Wingfoiling Holidays",
+    "url": "https://www.planetwingfoilholidays.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "kitesurf-mindoro",
+    "name": "Kitesurf Mindoro – Outdoor Resort",
+    "url": "https://www.kitesurf-mindoro.com/",
+    "bookmarkCategory": "Wassersport",
+    "dashboardCategory": "wassersport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "athletes-ch",
+    "name": "Athletes in Action (CH)",
+    "url": "https://athletes.ch/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "bogenschuetzen-thun",
+    "name": "Bogenschützen Thun – Trainingsplätze",
+    "url": "https://bs-thun.ch/verein/trainingsplaetze",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "engadinerkantorei",
+    "name": "Engadiner Kantorei – Chorwoche 2026",
+    "url": "https://engadinerkantorei.ch/chorwoche/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": "tanz-buehne",
+    "type": "manual",
+    "status": "active"
+  },
+  {
+    "id": "cielospatagonicos",
+    "name": "Cielos Patagonicos",
+    "url": "https://cielospatagonicos.com/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "kumano-kodo",
+    "name": "Kumano Kodo Pilgrimage",
+    "url": "https://viajecaminodesantiago.com/en/pilgrims-around-the-world/kumano-kodo/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  },
+  {
+    "id": "loiremusic",
+    "name": "Loire Music – Workshops France & UK",
+    "url": "https://www.loiremusic.com/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "pending"
+  },
+  {
+    "id": "marchedescepages",
+    "name": "Marche des Cépages – Rebsortenwanderung",
+    "url": "https://marchedescepages.ch/de/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": "sport",
+    "type": "scraper",
+    "status": "pending",
+    "notes": "Jährlicher Weinwander-Event"
+  },
+  {
+    "id": "viadinarica",
+    "name": "Via Dinarica Trail",
+    "url": "https://trail.viadinarica.com/de/",
+    "bookmarkCategory": "Sonstiges",
+    "dashboardCategory": null,
+    "type": "none",
+    "status": "no-event-relevance"
+  }
+]
