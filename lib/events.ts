@@ -1,5 +1,6 @@
 import type { Event } from './types'
 import manualEvents from '@/data/manual-events.json'
+import scrapedEvents from '@/data/scraped-events.json'
 
 // Returns only future events, sorted by startDate
 export function getFutureEvents(events: Event[]): Event[] {
@@ -90,7 +91,7 @@ async function fetchLumaEvents(): Promise<Event[]> {
 // Main: returns all upcoming events merged from all sources
 export async function getAllEvents(): Promise<Event[]> {
   const [luma] = await Promise.all([fetchLumaEvents()])
-  const all = [...(manualEvents as Event[]), ...luma]
+  const all = [...(manualEvents as Event[]), ...(scrapedEvents as Event[]), ...luma]
   return getFutureEvents(all)
 }
 

@@ -10,7 +10,7 @@ export interface Event {
   category: string
   description?: string
   url?: string
-  source: 'manual' | 'luma'
+  source: 'manual' | 'luma' | 'scraper'
   datesApproximate?: boolean
 }
 
