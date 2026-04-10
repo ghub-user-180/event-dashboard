@@ -72,7 +72,7 @@ export async function scrapeVBG(): Promise<Event[]> {
         id: stableId('vbg', title, startDate),
         title,
         startDate,
-        endDate: endDate !== startDate ? endDate : undefined,
+        endDate: endDate && endDate !== startDate ? endDate : undefined,
         location,
         city: location.split(',')[0].trim() || 'Schweiz',
         category: 'retreats',
