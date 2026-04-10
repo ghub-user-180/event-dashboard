@@ -355,3 +355,51 @@ export async function scrapeForroAare(): Promise<Event[]> {
     return []
   }
 }
+
+// ── 6. Planlos Impro Bern ────────────────────────────────────────────────────
+
+export async function scrapePlanlos(): Promise<Event[]> {
+  try {
+    const res = await fetch('https://www.planlos.be/programm', { headers: HEADERS })
+    if (!res.ok) return []
+    const html = await res.text()
+    const $ = cheerio.load(html)
+    const events: Event[] = []
+
+    // Each event: <h3>Donnerstag 23.04.2026 um 20:00 Uhr</h3>
+    //             <am-img>...<figcaption>Location</figcaption>...</am-img>
+    //             <h4><a href="URL">Infos und Tickets</a></h4>
+    $('h3').each((_, el) => {
+      const h3Text = $(el).text().trim()
+      // Match: "Donnerstag 23.04.2026 um 20:00 Uhr"
+      const m = h3Text.match(/(\d{2})\.(\d{2})\.(\d{4})\s+um\s+(\d{2}:\d{2})/)
+      if (!m) return
+
+      const startDate = `${m[3]}-${m[2]}-${m[1]}`
+      const startTime = m[4]
+
+      // Siblings after this h3 until next h2/h3/hr
+      const location = $(el).nextUntil('h2, h3, hr').find('figcaption').first().text().trim()
+        || 'ONO, Kramgasse 6, 3011 Bern'
+      const href = $(el).nextUntil('h2, h3, hr').find('a').first().attr('href') ?? 'https://www.planlos.be/programm'
+      const url = href.startsWith('http') ? href : `https://www.planlos.be${href}`
+
+      events.push({
+        id: stableId('planlos', startDate, startTime),
+        title: 'Planlos Impro Theater',
+        startDate,
+        startTime,
+        location,
+        city: 'Bern',
+        category: CATEGORY,
+        url,
+        source: 'scraper',
+      })
+    })
+
+    return events
+  } catch (e) {
+    console.error('planlos.be error:', e)
+    return []
+  }
+}
