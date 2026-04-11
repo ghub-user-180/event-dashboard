@@ -1,38 +1,5 @@
 [
   {
-    "id": "tanzevents-abrazame-3-floorparty-2026-04-11",
-    "title": "Abrazame- 3 Floorparty",
-    "startDate": "2026-04-11",
-    "startTime": "22:00",
-    "location": "Dalmaziquai 69 3005 Bern BE Bern BE",
-    "city": "Bern BE",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/abrazame--3-floorparty/7936/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-antidote-salsa-nigth-neuch-tel-2026-04-11",
-    "title": "Antidote Salsa Nigth Neuchâtel",
-    "startDate": "2026-04-11",
-    "startTime": "21:30",
-    "location": "Place de la Gare 1 Neuchâtel, Switzerland Solothurn",
-    "city": "Solothurn",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/antidote-salsa-nigth-neuchatel/7939/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-red-friday-2026-04-10",
-    "title": "RED FRIDAY",
-    "startDate": "2026-04-10",
-    "startTime": "22:00",
-    "location": "Bar Rouge - Rooftop Bar & Club Basel",
-    "city": "Basel",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/red-friday/7403/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-jeden-sonntag-ritmo-habana-salsa-bachata-all-styles-mit-dj-theo-2026-",
     "title": "Jeden Sonntag ★ RITMO HABANA ★ Salsa & Bachata All Styles mit DJ Theo",
     "startDate": "2026-04-12",
@@ -550,6 +517,39 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-mittelstufe-m-f-montags-monday-lunes-2026-05-04",
+    "title": "Salsa Mittelstufe  ( M-F ) (Montags Monday Lunes)",
+    "startDate": "2026-05-04",
+    "startTime": "19:30",
+    "location": "8003 Zürich Zürich",
+    "city": "Zürich",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6758/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-morning-lady-ladystyle-wochenkurs-2026-05-04",
+    "title": "Morning Lady - Ladystyle Wochenkurs",
+    "startDate": "2026-05-04",
+    "startTime": "09:00",
+    "location": "Nidfeldstrasse 1, 6010 Kriens Kriens",
+    "city": "Kriens",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/morning-lady---ladystyle-wochenkurs/7441/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-partnerwork-2026-05-04",
+    "title": "SALSA Partnerwork",
+    "startDate": "2026-05-04",
+    "startTime": "18:20",
+    "location": "Dance Spot Zurich Zürich Opfikon",
+    "city": "Zürich Opfikon",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/7467/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-salsabar-am-montag-2026-04-20",
     "title": "muévete SalsaBar am Montag",
     "startDate": "2026-04-20",
@@ -774,16 +774,6 @@
     "source": "scraper"
   },
   {
-    "id": "latinpromotion-salsa-im-dukes-2026-04-10",
-    "title": "Salsa im Dukes",
-    "startDate": "2026-04-10",
-    "location": "Freitag   Sihl 3, 8816 Sihlbrugg Gratis Eintritt ab 21:00 mit DJ Giovanni",
-    "city": "Freitag   Sihl 3",
-    "category": "tanz-buehne",
-    "url": "https://www.latinpromotion.ch/salsa-kalender/",
-    "source": "scraper"
-  },
-  {
     "id": "latinpromotion-salsa-im-dukes-sihl3-2026-05-01",
     "title": "Salsa im Dukes Sihl3",
     "startDate": "2026-05-01",
@@ -824,45 +814,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
-    "title": "Saturday Ecstatic (ANIKETA)",
-    "startDate": "2026-04-25",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-06-27",
     "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-04-18",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-04-18",
+    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -884,33 +838,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-05-16",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-06-27",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-06-27",
+    "startDate": "2026-06-13",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -932,6 +862,18 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-04-18",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-04-18",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-tba-2026-06-20",
     "title": "Saturday Ecstatic (TBA)",
     "startDate": "2026-06-20",
@@ -944,9 +886,33 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
+    "startDate": "2026-05-16",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -959,6 +925,30 @@
     "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
     "title": "Saturday Ecstatic (JARIGE)",
     "startDate": "2026-05-02",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
+    "title": "Saturday Ecstatic (ANIKETA)",
+    "startDate": "2026-04-25",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -1086,19 +1076,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.onobern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-eileen-alister-2026-04-10",
-    "title": "Eileen Alister",
-    "startDate": "2026-04-10",
-    "endDate": "2026-04-11",
-    "startTime": "19:00",
-    "endTime": "00:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/eileen-alister-10-04-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
