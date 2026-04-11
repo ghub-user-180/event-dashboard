@@ -25,8 +25,9 @@ export default async function DashboardPage() {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {CATEGORIES.map((cat) => {
-          const events = allEvents.filter((e) => e.category === cat.id).slice(0, 3)
-          return <CategoryTile key={cat.id} id={cat.id} icon={cat.icon} label={cat.label} description={cat.description} events={events} />
+          const catEvents = allEvents.filter((e) => e.category === cat.id)
+          const events = catEvents.slice(0, 3)
+          return <CategoryTile key={cat.id} id={cat.id} icon={cat.icon} label={cat.label} description={cat.description} events={events} totalCount={catEvents.length} />
         })}
       </div>
     </div>
@@ -39,12 +40,14 @@ function CategoryTile({
   label,
   description,
   events,
+  totalCount,
 }: {
   id: string
   icon: string
   label: string
   description: string
   events: Event[]
+  totalCount: number
 }) {
   const hasSoon = events.some((e) => isWithinDays(e.startDate, 7))
 
@@ -58,11 +61,18 @@ function CategoryTile({
         <div className="flex items-center gap-2 mb-1">
           <span className="text-2xl">{icon}</span>
           <h2 className="font-semibold text-gray-900 group-hover:text-blue-600 transition">{label}</h2>
-          {hasSoon && (
-            <span className="ml-auto text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full font-medium">
-              bald
-            </span>
-          )}
+          <div className="ml-auto flex items-center gap-1.5">
+            {totalCount > 0 && (
+              <span className="text-xs bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full font-medium">
+                {totalCount}
+              </span>
+            )}
+            {hasSoon && (
+              <span className="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full font-medium">
+                bald
+              </span>
+            )}
+          </div>
         </div>
         <p className="text-xs text-gray-400 mb-3">{description}</p>
 

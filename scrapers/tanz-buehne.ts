@@ -403,3 +403,87 @@ export async function scrapePlanlos(): Promise<Event[]> {
     return []
   }
 }
+
+// ── DanceApp.ch ─────────────────────────────────────────────────────────────
+// danceapp.ch/events.php — SSR, .event-card-link containers
+
+const DANCEAPP_MONTH: Record<string, number> = {
+  jan: 1, feb: 2, mär: 3, mar: 3, apr: 4, mai: 5, may: 5,
+  jun: 6, jul: 7, aug: 8, sep: 9, okt: 10, oct: 10, nov: 11, dez: 12, dec: 12,
+}
+
+function danceappDate(day: number, month: number): string {
+  const now = new Date()
+  const currentMonth = now.getMonth() + 1
+  const year = month < currentMonth ? now.getFullYear() + 1 : now.getFullYear()
+  return `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`
+}
+
+export async function scrapeDanceApp(): Promise<Event[]> {
+  try {
+    const res = await fetch('https://danceapp.ch/events.php', { headers: HEADERS })
+    if (!res.ok) return []
+    const html = await res.text()
+    const $ = cheerio.load(html)
+    const events: Event[] = []
+
+    $('a.event-card-link').each((_, el) => {
+      const $el = $(el)
+      const href = $el.attr('href') ?? ''
+      const url = href.startsWith('http') ? href : `https://danceapp.ch${href}`
+
+      // City: prefer data attribute, fallback to 📍 meta text
+      let city = $el.find('.event-card').attr('data-location-city') ?? ''
+      if (!city) {
+        const metaText = $el.find('.event-meta-item').first().text().replace('📍', '').trim()
+        city = metaText || ''
+      }
+      // Strip postal code prefix (e.g. "8330 Pfäffikon ZH - ..." → "Pfäffikon ZH")
+      city = city.replace(/^\d{4,5}\s+/, '').split(' - ')[0].trim()
+
+      const dayStr = $el.find('.event-date-day').first().text().trim()
+      const monthStr = $el.find('.event-date-month').first().text().trim().toLowerCase().slice(0, 3)
+      const day = parseInt(dayStr)
+      const month = DANCEAPP_MONTH[monthStr]
+      if (!day || !month) return
+
+      const startDate = danceappDate(day, month)
+
+      // End date: ".event-date-range-hint" contains "bis DD. Mon"
+      let endDate: string | undefined
+      const rangeText = $el.find('.event-date-range-hint').text().trim()
+      const rangeMatch = rangeText.match(/(\d{1,2})\.\s*(\w{3})/i)
+      if (rangeMatch) {
+        const endDay = parseInt(rangeMatch[1])
+        const endMonth = DANCEAPP_MONTH[rangeMatch[2].toLowerCase().slice(0, 3)]
+        if (endDay && endMonth) endDate = danceappDate(endDay, endMonth)
+      }
+
+      // Start time from datetime meta
+      const timeText = $el.find('.event-meta-item--datetime').text()
+      const timeMatch = timeText.match(/·\s*(\d{1,2}:\d{2})\s*Uhr/)
+      const startTime = timeMatch ? timeMatch[1] : undefined
+
+      const title = $el.find('.event-info h3').text().trim()
+      if (!title) return
+
+      events.push({
+        id: stableId('danceapp', title, startDate),
+        title,
+        startDate,
+        endDate: endDate && endDate !== startDate ? endDate : undefined,
+        startTime,
+        location: city || 'Schweiz',
+        city: city || '',
+        category: CATEGORY,
+        url,
+        source: 'scraper',
+      })
+    })
+
+    return events
+  } catch (e) {
+    console.error('danceapp.ch error:', e)
+    return []
+  }
+}

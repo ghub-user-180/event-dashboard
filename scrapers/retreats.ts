@@ -87,3 +87,44 @@ export async function scrapeVBG(): Promise<Event[]> {
     return []
   }
 }
+
+// ── Sensuality Festival ──────────────────────────────────────────────────────
+// sensualityfestival.com — single annual event, date in page text
+// Format: "DD-DD Month, YYYY" (e.g. "15-22 August, 2026")
+
+const SENSUALITY_MONTHS: Record<string, string> = {
+  january: '01', february: '02', march: '03', april: '04', may: '05', june: '06',
+  july: '07', august: '08', september: '09', october: '10', november: '11', december: '12',
+}
+
+export async function scrapeSensualityFestival(): Promise<Event[]> {
+  try {
+    const res = await fetch('https://www.sensualityfestival.com', { headers: HEADERS })
+    if (!res.ok) return []
+    const html = await res.text()
+
+    const match = html.match(/(\d{1,2})-(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)[,\s]+(\d{4})/i)
+    if (!match) return []
+
+    const startDay = match[1].padStart(2, '0')
+    const endDay = match[2].padStart(2, '0')
+    const month = SENSUALITY_MONTHS[match[3].toLowerCase()]
+    const year = match[4]
+
+    return [{
+      id: `sensuality-festival-${year}`,
+      title: 'Sensuality Festival',
+      startDate: `${year}-${month}-${startDay}`,
+      endDate: `${year}-${month}-${endDay}`,
+      location: 'Czech Republic',
+      city: 'Czech Republic',
+      category: 'retreats',
+      description: 'Non-tantra festival about sexuality, relationships & body awareness.',
+      url: 'https://www.sensualityfestival.com',
+      source: 'scraper',
+    }]
+  } catch (e) {
+    console.error('sensualityfestival.com error:', e)
+    return []
+  }
+}

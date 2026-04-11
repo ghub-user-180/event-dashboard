@@ -17,10 +17,12 @@ export default function MonitoringPage() {
     }
   }
 
-  const sourcesWithCounts = sources.map((s) => ({
-    ...s,
-    eventsCount: eventsByUrl.get(s.url.replace(/\/$/, '').toLowerCase()) ?? 0,
-  }))
+  const sourcesWithCounts = sources
+    .map((s) => ({
+      ...s,
+      eventsCount: eventsByUrl.get(s.url.replace(/\/$/, '').toLowerCase()) ?? 0,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name, 'de'))
 
   return <MonitoringClient sources={sourcesWithCounts} categories={CATEGORIES} />
 }
