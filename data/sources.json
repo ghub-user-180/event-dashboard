@@ -15,9 +15,9 @@
     "url": "https://www.harlemjazzclub.es/en/",
     "bookmarkCategory": "Ausgehen-Ausland",
     "dashboardCategory": "ausgehen",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Konzertprogramm vorhanden"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Barcelona — geografisch irrelevant"
   },
   {
     "id": "geoguessr",
@@ -37,7 +37,7 @@
     "dashboardCategory": "ausgehen",
     "type": "scraper",
     "status": "pending",
-    "notes": "Kulturzentrum mit strukturiertem Programm"
+    "notes": "Nuxt.js client-side — kein statischer Inhalt scrapbar"
   },
   {
     "id": "kioskiosk",
@@ -46,7 +46,8 @@
     "bookmarkCategory": "Ausgehen-Luzern",
     "dashboardCategory": "ausgehen",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Zu prüfen: statisch oder client-side?"
   },
   {
     "id": "jazzkantine",
@@ -55,7 +56,8 @@
     "bookmarkCategory": "Ausgehen-Luzern",
     "dashboardCategory": "ausgehen",
     "type": "scraper",
-    "status": "pending"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeJazzkantine)"
   },
   {
     "id": "schuur",
@@ -64,8 +66,8 @@
     "bookmarkCategory": "Ausgehen-Luzern",
     "dashboardCategory": "ausgehen",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Strukturierte Programmseite, gut scrapbar"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeSchuur)"
   },
   {
     "id": "bar59",
@@ -112,7 +114,7 @@
     "dashboardCategory": "ausgehen",
     "type": "scraper",
     "status": "pending",
-    "notes": "Kulturzentrum Genf"
+    "notes": "Kulturzentrum Genf — Struktur prüfen"
   },
   {
     "id": "luma",
@@ -131,7 +133,8 @@
     "bookmarkCategory": "Ausgehen-Schweiz",
     "dashboardCategory": "sozialleben",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Expat-Events Zürich — Struktur prüfen"
   },
   {
     "id": "glocals",
@@ -141,7 +144,7 @@
     "dashboardCategory": "sozialleben",
     "type": "scraper",
     "status": "pending",
-    "notes": "Grösste Expat-Community CH, hat Event-Listings"
+    "notes": "Grösste Expat-Community CH — Struktur prüfen"
   },
   {
     "id": "allhandsandhearts",
@@ -272,7 +275,7 @@
     "dashboardCategory": "austausch",
     "type": "scraper",
     "status": "pending",
-    "notes": "Workcamp-Kalender vorhanden"
+    "notes": "Camps auf externer DB (volunteer.sci.ngo) — nicht direkt scrapbar"
   },
   {
     "id": "sosense",
@@ -439,7 +442,7 @@
     "dashboardCategory": "sport",
     "type": "scraper",
     "status": "pending",
-    "notes": "Sektionstouren-Programm"
+    "notes": "SAC Sektion Rossberg — Tourenkalender prüfen"
   },
   {
     "id": "sac-cas",
@@ -628,9 +631,9 @@
     "url": "https://sun-and-co.com/",
     "bookmarkCategory": "Co-Livings",
     "dashboardCategory": "retreats",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Hat Workation-Retreats / Events"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Coliving Javea — Unterkunft, kein Eventkalender"
   },
   {
     "id": "sundesk",
@@ -657,7 +660,8 @@
     "bookmarkCategory": "Co-Livings",
     "dashboardCategory": "retreats",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "JS-gerendert — Headless-Browser nötig"
   },
   {
     "id": "nomadintransylvania",
@@ -711,8 +715,9 @@
     "url": "https://www.kinconnect.com/",
     "bookmarkCategory": "Dating",
     "dashboardCategory": "sozialleben",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Matching-Plattform, kein Eventkalender"
   },
   {
     "id": "vidaselect",
@@ -757,7 +762,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Jährliches Festival DE — prüfen ob 2026 stattfindet"
   },
   {
     "id": "templeoflight",
@@ -775,7 +781,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "retreats",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Wix/Thunderbolt client-side — kein statischer Inhalt"
   },
   {
     "id": "hillsong-denmark",
@@ -783,9 +790,9 @@
     "url": "https://hillsongdenmark.churchcenter.com/calendar",
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Church Center hat strukturierten Kalender"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kirchenkalender Dänemark — nicht dashboard-relevant"
   },
   {
     "id": "der4temusketier",
@@ -811,8 +818,9 @@
     "url": "https://hermanosis.com/en/",
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Prüfung: kein relevanter Eventkalender gefunden"
   },
   {
     "id": "hridaya-yoga",
@@ -858,7 +866,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "retreats",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Retreat-Übersicht — Struktur prüfen"
   },
   {
     "id": "sensualityfestival",
@@ -867,7 +876,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending"
+    "status": "active",
+    "notes": "Aktiver Scraper — jährliches Event, Datum aus Seitentext"
   },
   {
     "id": "naturallifestyles",
@@ -885,8 +895,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending",
-    "notes": "VBG hat strukturierte Agenda-Seite"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeVBG)"
   },
   {
     "id": "vrairepaire",
@@ -895,7 +905,8 @@
     "bookmarkCategory": "Festivals-Retreats-Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Jährliches Festival FR — prüfen"
   },
   {
     "id": "campfi",
@@ -948,9 +959,9 @@
     "url": "https://cryptoevents.global/point-zero-forum-2025-zurich/",
     "bookmarkCategory": "Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Aggregator für Crypto-Events"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Einzellink zu Point Zero Forum 2025 — vergangen"
   },
   {
     "id": "bitblockboom",
@@ -978,7 +989,7 @@
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
     "status": "pending",
-    "notes": "Aggregator mit Rabattcodes für Bitcoin-Konferenzen"
+    "notes": "Bitcoin-Konferenz-Aggregator — prüfen ob statisch"
   },
   {
     "id": "libertycon",
@@ -1023,8 +1034,9 @@
     "url": "https://liberty-intl.org/liwc2025/",
     "bookmarkCategory": "Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "LIWC 2025 Buenos Aires — vergangenes Einzelevent"
   },
   {
     "id": "ba-digital-nomads",
@@ -1050,9 +1062,9 @@
     "url": "https://www.hackerparadise.org/",
     "bookmarkCategory": "Nomadthings",
     "dashboardCategory": "festivals-konferenzen",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Community Travel Events für Remote Workers"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Remote-Work Coliving, kein Eventkalender"
   },
   {
     "id": "nomadays",
@@ -1197,7 +1209,7 @@
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
     "status": "pending",
-    "notes": "Aggregiert Nomad Conferences & Retreats"
+    "notes": "Zeitlich begrenzte Liste 2025-2026 — besser Direktquellen nutzen"
   },
   {
     "id": "mondamo",
@@ -1244,7 +1256,7 @@
     "dashboardCategory": "retreats",
     "type": "scraper",
     "status": "pending",
-    "notes": "Grösster Retreat-Aggregator weltweit"
+    "notes": "Grosse Plattform — API oder Headless prüfen"
   },
   {
     "id": "minoma-retreat",
@@ -1262,7 +1274,8 @@
     "bookmarkCategory": "Nomadthings",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Zu prüfen: Nomad-Events ohne festes Format"
   },
   {
     "id": "nomadcruise-16",
@@ -1346,7 +1359,7 @@
     "dashboardCategory": "retreats",
     "type": "scraper",
     "status": "pending",
-    "notes": "Grosse Persönlichkeitsentwicklungs-Plattform mit Events"
+    "notes": "Zu prüfen: Events vorhanden, Struktur unklar"
   },
   {
     "id": "burginfamily",
@@ -1438,7 +1451,7 @@
     "dashboardCategory": "austausch",
     "type": "scraper",
     "status": "pending",
-    "notes": "Aggregator für Sommerschulen in Europa"
+    "notes": "FacetWP AJAX — benötigt Nonce/Session, kein statischer Inhalt"
   },
   {
     "id": "noii",
@@ -1448,7 +1461,7 @@
     "dashboardCategory": "sozialleben",
     "type": "scraper",
     "status": "pending",
-    "notes": "Auch in: Dating"
+    "notes": "Zu prüfen: date.noii.ch/preview — Struktur unklar"
   },
   {
     "id": "meetbychance",
@@ -1456,9 +1469,9 @@
     "url": "https://www.meetbychance.ch/",
     "bookmarkCategory": "Sozialleben",
     "dashboardCategory": "sozialleben",
-    "type": "scraper",
-    "status": "pending",
-    "notes": "Auch in: Dating"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Matching-Plattform, kein Eventkalender"
   },
   {
     "id": "barhopping",
@@ -1559,8 +1572,9 @@
     "url": "https://www.salsaloversworldwide.com/",
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Internationale Plattform ohne CH-Bezug"
   },
   {
     "id": "danceabroad",
@@ -1568,8 +1582,9 @@
     "url": "https://danceabroad.com/index.html",
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Tanzreisen ohne strukturierten Kalender"
   },
   {
     "id": "danses-darc",
@@ -1587,8 +1602,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Regelmässige Events, gut scrapbar"
+    "status": "active",
+    "notes": "Aktiver Scraper via Google Calendar ICS-Feed"
   },
   {
     "id": "forroaare",
@@ -1597,7 +1612,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "active",
+    "notes": "Aktiver Scraper — HTTP 403, 0 Events (geblockt)"
   },
   {
     "id": "fulldance",
@@ -1616,7 +1632,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Kulturhof Köniz — Struktur prüfen"
   },
   {
     "id": "lasalsera",
@@ -1644,8 +1661,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Explizite Kalenderseite – hohe Priorität für Scraping"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeLatinPromotion)"
   },
   {
     "id": "leapinlindy",
@@ -1673,8 +1690,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Schweizer Tanz-Event-Aggregator, strukturierte Seite"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeTanzevents) — URL: tanzevents.ch/events.php"
   },
   {
     "id": "muevete",
@@ -1683,8 +1700,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Explizite Party-Liste, gut scrapbar"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeMuevete)"
   },
   {
     "id": "salsabrosa",
@@ -1722,7 +1739,7 @@
     "dashboardCategory": "tanz-buehne",
     "type": "api",
     "status": "pending",
-    "notes": "Notion-Datenbank – Notion API nutzbar"
+    "notes": "Notion Public DB — Notion API nutzbar"
   },
   {
     "id": "swingplanit",
@@ -1732,7 +1749,7 @@
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
     "status": "pending",
-    "notes": "Weltweiter Aggregator für Swing-Events"
+    "notes": "Worldwide Swing Events — API prüfen"
   },
   {
     "id": "tanzevents-all",
@@ -1741,8 +1758,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Breitere Ansicht von tanzevents.ch"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeTanzevents) — selber Scraper wie tanzevents.ch/events.php"
   },
   {
     "id": "danceplacegrapevine",
@@ -1815,8 +1832,9 @@
     "url": "https://www.die-verstoerten-wunschkinder.de/",
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Deutsches Theater, geografisch irrelevant"
   },
   {
     "id": "improberlin",
@@ -1835,7 +1853,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Impro-Kurse Schweiz — Struktur prüfen"
   },
   {
     "id": "improwiki",
@@ -1854,7 +1873,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Berner Impro-Theater — Struktur prüfen"
   },
   {
     "id": "improv-ca",
@@ -1881,7 +1901,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapePlanlos)"
   },
   {
     "id": "roseway",
@@ -1890,7 +1911,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Schweizer Impro-Theater — Struktur prüfen"
   },
   {
     "id": "theannoyance",
@@ -1909,7 +1931,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Schweizer Theater — Struktur prüfen"
   },
   {
     "id": "yourstage",
@@ -1918,7 +1941,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Theater anundpfirsich auf Yourstage — prüfen"
   },
   {
     "id": "theater-ohne-probe",
@@ -2036,8 +2060,9 @@
     "url": "https://www.apneatotal.com/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Freediving-Schule Koh Tao — geografisch irrelevant"
   },
   {
     "id": "bielerseefreaks",
@@ -2045,8 +2070,9 @@
     "url": "https://bielerseefreaks.ch/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Windsport-Infosite, kein Eventkalender"
   },
   {
     "id": "bisenoire",
@@ -2073,7 +2099,8 @@
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Wing & Foil Kurse — Struktur prüfen"
   },
   {
     "id": "halleforsvandrarhem",
@@ -2081,8 +2108,9 @@
     "url": "https://www.halleforsvandrarhem.com/en/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kanu-Camp Schweden — kein Eventkalender"
   },
   {
     "id": "campinglemaior",
@@ -2090,8 +2118,9 @@
     "url": "https://www.campinglemaior.it/de/kite/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Unterkunft Sardinien — kein Eventkalender"
   },
   {
     "id": "gardasee-kiteschule",
@@ -2099,8 +2128,9 @@
     "url": "https://www.gardasee-kiteschule.de/de",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Schule Gardasee — nur Buchungen, kein Kalender"
   },
   {
     "id": "vilamarola",
@@ -2117,8 +2147,9 @@
     "url": "https://www.kitecentergardalake.com/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Schule Gardasee — nur Buchungen"
   },
   {
     "id": "freeyourmind-kite",
@@ -2126,8 +2157,9 @@
     "url": "https://freeyourmindexperience.com/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Schule Tarifa — nur Buchungen"
   },
   {
     "id": "xkite",
@@ -2171,8 +2203,9 @@
     "url": "https://www.sicilykiteholiday.com/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Unterkunft Sizilien — keine Events"
   },
   {
     "id": "svt-beaufort",
@@ -2189,8 +2222,9 @@
     "url": "https://www.waverocker.org/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Surfcamp — keine strukturierten Events"
   },
   {
     "id": "webcam-neuchatel",
@@ -2225,8 +2259,9 @@
     "url": "https://www.ycb.ch/clubdesk/www",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Yacht Club Bielersee — kein öffentlicher Eventkalender"
   },
   {
     "id": "wingpassion",
@@ -2262,7 +2297,8 @@
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Wing Foil Kurse Urnersee — Struktur prüfen"
   },
   {
     "id": "surfclub-uri",
@@ -2306,8 +2342,9 @@
     "url": "https://www.drwind.surf/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Schule Brasilien — geografisch irrelevant"
   },
   {
     "id": "kitefun",
@@ -2343,7 +2380,8 @@
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
     "type": "scraper",
-    "status": "pending"
+    "status": "pending",
+    "notes": "Internationale Wingfoil-Holidays — Struktur prüfen"
   },
   {
     "id": "kitesurf-mindoro",
@@ -2351,8 +2389,9 @@
     "url": "https://www.kitesurf-mindoro.com/",
     "bookmarkCategory": "Wassersport",
     "dashboardCategory": "wassersport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Kite-Resort Philippinen — geografisch irrelevant"
   },
   {
     "id": "athletes-ch",
@@ -2369,8 +2408,9 @@
     "url": "https://bs-thun.ch/verein/trainingsplaetze",
     "bookmarkCategory": "Sonstiges",
     "dashboardCategory": "sport",
-    "type": "scraper",
-    "status": "pending"
+    "type": "none",
+    "status": "no-event-relevance",
+    "notes": "Trainingsplätze Bogenschützen — kein Eventkalender"
   },
   {
     "id": "engadinerkantorei",
@@ -2426,5 +2466,15 @@
     "dashboardCategory": null,
     "type": "none",
     "status": "no-event-relevance"
+  },
+  {
+    "id": "danceapp",
+    "name": "DanceApp.ch – Tanz-Events Schweiz",
+    "url": "https://danceapp.ch/events.php",
+    "bookmarkCategory": "Tanzen-Schweiz",
+    "dashboardCategory": "tanz-buehne",
+    "type": "scraper",
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeDanceApp) — SSR, .event-card-link, 146 Events gesamt"
   }
 ]
