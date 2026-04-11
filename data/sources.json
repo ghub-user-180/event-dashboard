@@ -988,8 +988,8 @@
     "bookmarkCategory": "Konferenzen",
     "dashboardCategory": "festivals-konferenzen",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Bitcoin-Konferenz-Aggregator — prüfen ob statisch"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeBitvocation) — JSON-LD children-Attribut, 69 Bitcoin-Konferenzen"
   },
   {
     "id": "libertycon",
@@ -1632,8 +1632,8 @@
     "bookmarkCategory": "Tanz",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Kulturhof Köniz — Struktur prüfen"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeKulturhof) — .event-block.event, ~15 Events"
   },
   {
     "id": "lasalsera",
@@ -1911,8 +1911,8 @@
     "bookmarkCategory": "Theater",
     "dashboardCategory": "tanz-buehne",
     "type": "scraper",
-    "status": "pending",
-    "notes": "Schweizer Impro-Theater — Struktur prüfen"
+    "status": "active",
+    "notes": "Aktiver Scraper (scrapeRoseway) — ytp-events Widget"
   },
   {
     "id": "theannoyance",

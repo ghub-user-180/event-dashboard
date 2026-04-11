@@ -487,3 +487,110 @@ export async function scrapeDanceApp(): Promise<Event[]> {
     return []
   }
 }
+
+// ── Roseway Improtheater ─────────────────────────────────────────────────────
+// roseway.ch — SSR WordPress, ytp-events widget
+// Date format: "30.05.2026 16:00 Uhr"
+
+export async function scrapeRoseway(): Promise<Event[]> {
+  try {
+    const res = await fetch('https://roseway.ch/', { headers: HEADERS })
+    if (!res.ok) return []
+    const html = await res.text()
+    const $ = cheerio.load(html)
+    const events: Event[] = []
+
+    $('.ytp-event-row').each((_, el) => {
+      const $el = $(el)
+
+      // Title: text of .ytp-event-name minus the nested .ytp-event-type span
+      const $name = $el.find('.ytp-event-name')
+      $name.find('.ytp-event-type').remove()
+      const title = $name.text().trim()
+      if (!title) return
+
+      // Date: "30.05.2026 16:00 Uhr"
+      const dateText = $el.find('.ytp-event-date').text().trim()
+      const dateMatch = dateText.match(/(\d{2})\.(\d{2})\.(\d{4})(?:\s+(\d{2}:\d{2}))?/)
+      if (!dateMatch) return
+      const startDate = `${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}`
+      const startTime = dateMatch[4] || undefined
+
+      const city = $el.find('.ytp-event-city').text().trim() || $el.find('.ytp-event-location').text().trim() || 'Schweiz'
+      const location = $el.find('.ytp-event-location').text().trim() || city
+
+      // URL: link in the row, fallback to roseway.ch
+      const href = $el.find('a').attr('href') ?? 'https://roseway.ch/'
+      const url = href.startsWith('http') ? href : `https://roseway.ch${href}`
+
+      events.push({
+        id: stableId('roseway', title, startDate),
+        title,
+        startDate,
+        startTime,
+        location,
+        city,
+        category: CATEGORY,
+        url,
+        source: 'scraper',
+      })
+    })
+
+    return events
+  } catch (e) {
+    console.error('roseway.ch error:', e)
+    return []
+  }
+}
+
+// ── Kulturhof Köniz ──────────────────────────────────────────────────────────
+// kulturhof.ch — SSR WordPress, .event-block.event
+// Date format: "DD/MM/YY" (e.g. "11/04/26")
+
+export async function scrapeKulturhof(): Promise<Event[]> {
+  try {
+    const res = await fetch('https://www.kulturhof.ch/', { headers: HEADERS })
+    if (!res.ok) return []
+    const html = await res.text()
+    const $ = cheerio.load(html)
+    const events: Event[] = []
+
+    $('.event-block.event').each((_, el) => {
+      const $el = $(el)
+
+      const title = $el.find('.event-block-title a').text().trim()
+      if (!title || title.startsWith('ABGESAGT')) return
+
+      const dateStr = $el.find('.event-date').text().trim() // "11/04/26"
+      const dateMatch = dateStr.match(/(\d{2})\/(\d{2})\/(\d{2})/)
+      if (!dateMatch) return
+      const day = dateMatch[1]
+      const month = dateMatch[2]
+      const yy = parseInt(dateMatch[3])
+      const year = yy < 50 ? 2000 + yy : 1900 + yy
+      const startDate = `${year}-${month}-${day}`
+
+      const startTime = $el.find('.event-time').text().trim() || undefined
+
+      const href = $el.find('a.kulturhof_image, .event-block-title a').first().attr('href') ?? ''
+      const url = href || 'https://www.kulturhof.ch/'
+
+      events.push({
+        id: stableId('kulturhof', title, startDate),
+        title,
+        startDate,
+        startTime,
+        location: 'Kulturhof Köniz',
+        city: 'Köniz',
+        category: CATEGORY,
+        url,
+        source: 'scraper',
+      })
+    })
+
+    return events
+  } catch (e) {
+    console.error('kulturhof.ch error:', e)
+    return []
+  }
+}

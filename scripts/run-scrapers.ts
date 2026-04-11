@@ -8,9 +8,12 @@ import {
   scrapeForroAare,
   scrapePlanlos,
   scrapeDanceApp,
+  scrapeRoseway,
+  scrapeKulturhof,
 } from '../scrapers/tanz-buehne'
 import { scrapeSchuur, scrapeJazzkantine } from '../scrapers/ausgehen'
 import { scrapeVBG, scrapeSensualityFestival } from '../scrapers/retreats'
+import { scrapeBitvocation } from '../scrapers/festivals'
 
 async function main() {
   console.log('Starting scrapers...')
@@ -23,15 +26,19 @@ async function main() {
     scrapeForroAare(),
     scrapePlanlos(),
     scrapeDanceApp(),
+    scrapeRoseway(),
+    scrapeKulturhof(),
     scrapeSchuur(),
     scrapeJazzkantine(),
     scrapeVBG(),
     scrapeSensualityFestival(),
+    scrapeBitvocation(),
   ])
 
   const names = [
     'tanzevents.ch', 'muevete.ch', 'latinpromotion.ch', 'ecstaticdancebern.ch', 'forroaare.ch',
-    'planlos.be', 'danceapp.ch', 'schuur.ch', 'jazzkantine.com', 'vbg.net', 'sensualityfestival.com',
+    'planlos.be', 'danceapp.ch', 'roseway.ch', 'kulturhof.ch',
+    'schuur.ch', 'jazzkantine.com', 'vbg.net', 'sensualityfestival.com', 'bitvocation.com',
   ]
   const allEvents = results.flatMap((r, i) => {
     if (r.status === 'fulfilled') {
