@@ -1,38 +1,5 @@
 [
   {
-    "id": "tanzevents-salsa-bachata-classes-fuego-dance-studio-2026-04-12",
-    "title": "Salsa / Bachata Classes - Fuego Dance Studio",
-    "startDate": "2026-04-12",
-    "startTime": "15:00",
-    "location": "Schweiz",
-    "city": "Schweiz",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa--bachata-classes---fuego-dance-studio/7338/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-mittelstufe-m-f-montags-monday-lunes-2026-04-13",
-    "title": "Salsa Mittelstufe  ( M-F ) (Montags Monday Lunes)",
-    "startDate": "2026-04-13",
-    "startTime": "19:30",
-    "location": "8003 Zürich Zürich",
-    "city": "Zürich",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6755/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-morning-lady-ladystyle-wochenkurs-2026-04-13",
-    "title": "Morning Lady - Ladystyle Wochenkurs",
-    "startDate": "2026-04-13",
-    "startTime": "09:00",
-    "location": "Nidfeldstrasse 1, 6010 Kriens Kriens",
-    "city": "Kriens",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/morning-lady---ladystyle-wochenkurs/7438/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-partnerwork-2026-04-13",
     "title": "SALSA Partnerwork",
     "startDate": "2026-04-13",
@@ -572,6 +539,61 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-anf-nger-2026-05-05",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-05",
+    "startTime": "20:45",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6548/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-t-glich-salsa-bachata-und-kizombakurse-2026-05-06",
+    "title": "Täglich Salsa-, Bachata- und Kizombakurse",
+    "startDate": "2026-05-06",
+    "startTime": "19:00",
+    "location": "5610 Wohlen AG Wohlen AG",
+    "city": "Wohlen AG",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/taglich-salsa--bachata--und-kizombakurse/6864/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsaare-2026-05-06",
+    "title": "Salsaare",
+    "startDate": "2026-05-06",
+    "startTime": "20:00",
+    "location": "2026 Virtuality Sagl Virtuality Sagl",
+    "city": "Virtuality Sagl",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsaare/6850/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-05-06",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-06",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6566/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-fortgeschritten-2026-05-06",
+    "title": "Salsa Fortgeschritten",
+    "startDate": "2026-05-06",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6584/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-salsabar-am-montag-2026-04-20",
     "title": "muévete SalsaBar am Montag",
     "startDate": "2026-04-20",
@@ -836,21 +858,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
     "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -872,21 +882,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-06-27",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-06-27",
+    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
+    "title": "Saturday Ecstatic (ANIKETA)",
+    "startDate": "2026-04-25",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -920,9 +918,21 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-04-18",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-05-16",
+    "startDate": "2026-04-18",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
+    "title": "Saturday Ecstatic (JARIGE)",
+    "startDate": "2026-05-02",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -944,9 +954,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-04-18",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-04-18",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-06-27",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -956,15 +966,148 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
-    "title": "Saturday Ecstatic (ANIKETA)",
-    "startDate": "2026-04-25",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-05-16",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-04-23-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-04-23",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-05-21-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-05-21",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-08-27-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-08-27",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-10-29-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-10-29",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-11-26-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-11-26",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-12-20-17-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-12-20",
+    "startTime": "17:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2027-01-17-17-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2027-01-17",
+    "startTime": "17:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2027-02-19-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2027-02-19",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2027-03-18-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2027-03-18",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2027-04-22-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2027-04-22",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "planlos-2026-05-20-20-00",
+    "title": "Planlos Impro Theater",
+    "startDate": "2026-05-20",
+    "startTime": "20:00",
+    "location": "ONO, Kramgasse 6, 3011 Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.onobern.ch",
     "source": "scraper"
   },
   {
@@ -975,6 +1118,18 @@
     "city": "Pfäffikon ZH",
     "category": "tanz-buehne",
     "url": "https://danceapp.ch/event.php?id=6390",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-mittwochs-social-dance-in-st-gallen-2026-04-15",
+    "title": "Mittwochs Social Dance in St. Gallen!!!",
+    "startDate": "2026-04-15",
+    "endDate": "2026-04-16",
+    "startTime": "20:30",
+    "location": "St. Gallen",
+    "city": "St. Gallen",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=7977",
     "source": "scraper"
   },
   {
@@ -1036,6 +1191,105 @@
     "city": "Kloten",
     "category": "tanz-buehne",
     "url": "https://roseway.ch#ytp-event-21116",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-spacenight-mit-dj-s-franctone-aviva-2026-04-17",
+    "title": "Spacenight mit DJ's Franctone & AViVA",
+    "startDate": "2026-04-17",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/spacenight-mit-djs-franctone-aviva-6/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-ztanz-2026-04-28",
+    "title": "ZTANZ",
+    "startDate": "2026-04-28",
+    "startTime": "19:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/4498/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-spacenight-mit-dj-s-franctone-aviva-2026-05-13",
+    "title": "Spacenight mit DJ's Franctone & AViVA",
+    "startDate": "2026-05-13",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/4494/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-patti-basler-philippe-kuhn-2026-05-21",
+    "title": "Patti Basler & Philippe Kuhn",
+    "startDate": "2026-05-21",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/patti-basler-philippe-kuhn-i-l%c2%a8cke-derniere/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-helga-disko-2026-05-22",
+    "title": "Helga! Disko",
+    "startDate": "2026-05-22",
+    "startTime": "21:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/helga-disko-4/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-ztanz-2026-05-26",
+    "title": "ZTANZ",
+    "startDate": "2026-05-26",
+    "startTime": "19:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/ztanz-15/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-kruger-brothers-feat-jonah-horton-2026-05-27",
+    "title": "KRUGER BROTHERS feat. JONAH HORTON",
+    "startDate": "2026-05-27",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/the-kruger-brothers-feat-jonah-horton/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-metal-im-schloss-festival-2026-05-29",
+    "title": "Metal im Schloss | Festival",
+    "startDate": "2026-05-29",
+    "startTime": "19:30",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/metal-im-schloss-festival/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-konzert-unter-der-linde-i-knopf-trio-2026-06-10",
+    "title": "Konzert unter der Linde I KNOPF - TRIO",
+    "startDate": "2026-06-10",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/knopf/",
     "source": "scraper"
   },
   {
