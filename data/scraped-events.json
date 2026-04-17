@@ -1,27 +1,5 @@
 [
   {
-    "id": "tanzevents-baila-salsa-bachata-2026-04-16",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-04-16",
-    "startTime": "20:00",
-    "location": "baila salsa & bachata aarbergergasse 61, 3011 bern salsa bachata",
-    "city": "Schweiz",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/baila-salsa-bachata/6401/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-fridaynight-bananenreiferei-2026-04-17",
-    "title": "FridayNight @ Bananenreiferei",
-    "startDate": "2026-04-17",
-    "startTime": "21:00",
-    "location": "8005 Zürich Zürich",
-    "city": "Zürich",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6692/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-jeden-sonntag-ritmo-habana-salsa-bachata-all-styles-mit-dj-theo-2026-",
     "title": "Jeden Sonntag ★ RITMO HABANA ★ Salsa & Bachata All Styles mit DJ Theo",
     "startDate": "2026-04-19",
@@ -583,6 +561,28 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-anf-nger-2026-05-11",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-11",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6492/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-fortgeschritten-2026-05-11",
+    "title": "Salsa Fortgeschritten",
+    "startDate": "2026-05-11",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6511/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-salsabar-am-montag-2026-04-20",
     "title": "muévete SalsaBar am Montag",
     "startDate": "2026-04-20",
@@ -847,9 +847,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
-    "title": "Saturday Ecstatic (ANIKETA)",
-    "startDate": "2026-04-25",
+    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
+    "title": "Saturday Ecstatic (JARIGE)",
+    "startDate": "2026-05-02",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -871,33 +871,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
     "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "startDate": "2026-05-30",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -919,9 +895,57 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
     "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
+    "startDate": "2026-05-09",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
+    "title": "Saturday Ecstatic (ANIKETA)",
+    "startDate": "2026-04-25",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-tba-2026-06-20",
+    "title": "Saturday Ecstatic (TBA)",
+    "startDate": "2026-06-20",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -943,33 +967,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-06-27",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-06-27",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-tba-2026-06-20",
-    "title": "Saturday Ecstatic (TBA)",
-    "startDate": "2026-06-20",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -1097,16 +1097,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.onobern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-baila-salsa-bachata-2026-04-16",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-04-16",
-    "location": "Aarbergergasse 61, 3011 Bern",
-    "city": "Aarbergergasse 61, 3011 Bern",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6401",
     "source": "scraper"
   },
   {
@@ -1287,19 +1277,6 @@
     "city": "Köniz",
     "category": "tanz-buehne",
     "url": "https://www.kulturhof.ch/veranstaltung/knopf/",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-noche-cubana-2026-04-16",
-    "title": "Noche Cubana",
-    "startDate": "2026-04-16",
-    "endDate": "2026-04-17",
-    "startTime": "21:00",
-    "endTime": "02:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/noche-cubana-16-04-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -2452,17 +2429,6 @@
     "source": "scraper"
   },
   {
-    "id": "vbg-schl-s-sel-rolle-bibelverst-ndnis-wenige-pl-tze-2026-04-16",
-    "title": "Schlüs­sel­rolle Bibelverständnis (wenige Plätze)",
-    "startDate": "2026-04-16",
-    "endDate": "2026-04-19",
-    "location": "Casa Moscia",
-    "city": "Casa Moscia",
-    "category": "retreats",
-    "url": "https://www.vbg.net/auszeit/2026/04/schluesselrolle-bibelverstaendnis",
-    "source": "scraper"
-  },
-  {
     "id": "vbg-exer-zi-tien-im-fr-hling-ausgebucht-2026-04-19",
     "title": "Exer­zi­tien im Frühling (ausgebucht)",
     "startDate": "2026-04-19",
@@ -2978,36 +2944,6 @@
     "source": "scraper"
   },
   {
-    "id": "bitvocation-bitchill-2026-04-16",
-    "title": "Bitchill",
-    "startDate": "2026-04-16",
-    "location": "Próspera, Honduras",
-    "city": "Próspera",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitchill",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-bitcoin-day-panam-2026-04-16",
-    "title": "Bitcoin Day Panamá",
-    "startDate": "2026-04-16",
-    "location": "Panama City, Panama",
-    "city": "Panama City",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-day-panam",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-opnext-2026-04-16",
-    "title": "OPNEXT",
-    "startDate": "2026-04-16",
-    "location": "New York, U.S.",
-    "city": "New York",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/opnext",
-    "source": "scraper"
-  },
-  {
     "id": "bitvocation-conf-rence-bitcoin-afrique-2026-04-17",
     "title": "Conférence Bitcoin Afrique",
     "startDate": "2026-04-17",
@@ -3015,6 +2951,16 @@
     "city": "Ouagadougou",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/conference-bitcoin-afrique",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-costa-rica-freedom-forum-2026-04-17",
+    "title": "Costa Rica Freedom Forum",
+    "startDate": "2026-04-17",
+    "location": "Santa Teresa, Costa Rica",
+    "city": "Santa Teresa",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/costa-rica-freedom-forum",
     "source": "scraper"
   },
   {
@@ -3438,6 +3384,26 @@
     "source": "scraper"
   },
   {
+    "id": "bitvocation-bitcoin-vibecamp-2026-08-17",
+    "title": "Bitcoin Vibecamp",
+    "startDate": "2026-08-17",
+    "location": "Próspera, Honduras",
+    "city": "Próspera",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/bitcoin-vibecamp",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-bitcoin-unconference-indonesia-2026-08-22",
+    "title": "Bitcoin Unconference Indonesia",
+    "startDate": "2026-08-22",
+    "location": "Surabaya, Indonesia",
+    "city": "Surabaya",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/bitcoin-unconference-indonesia",
+    "source": "scraper"
+  },
+  {
     "id": "bitvocation-bitcoin-asia-2026-08-27",
     "title": "Bitcoin Asia",
     "startDate": "2026-08-27",
@@ -3595,6 +3561,16 @@
     "city": "Lugano",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/plan-b-lugano",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-discover-floripa-2026-10-30",
+    "title": "Discover Floripa",
+    "startDate": "2026-10-30",
+    "location": "Florianopolis, Brazil",
+    "city": "Florianopolis",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/discover-floripa",
     "source": "scraper"
   },
   {
