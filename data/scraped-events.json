@@ -1,27 +1,5 @@
 [
   {
-    "id": "tanzevents-jeden-sonntag-ritmo-habana-salsa-bachata-all-styles-mit-dj-theo-2026-",
-    "title": "Jeden Sonntag ★ RITMO HABANA ★ Salsa & Bachata All Styles mit DJ Theo",
-    "startDate": "2026-04-19",
-    "startTime": "18:00",
-    "location": "Pilatusstrasse 21 CH-6003 Luzern Luzern",
-    "city": "Luzern",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/jeden-sonntag--ritmo-habana--salsa--bachata-all-styles-mit-dj-theo/6986/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-domingo-latino-2026-04-19",
-    "title": "Domingo Latino",
-    "startDate": "2026-04-19",
-    "startTime": "21:15",
-    "location": "9015 St.Gallen St.Gallen",
-    "city": "Bionstrasse 4 St.Gallen",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/domingo-latino/6791/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-bachata-classes-fuego-dance-studio-2026-04-19",
     "title": "Salsa / Bachata Classes - Fuego Dance Studio",
     "startDate": "2026-04-19",
@@ -184,6 +162,17 @@
     "city": "Zürich",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6693/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-jeden-sonntag-ritmo-habana-salsa-bachata-all-styles-mit-dj-theo-2026-",
+    "title": "Jeden Sonntag ★ RITMO HABANA ★ Salsa & Bachata All Styles mit DJ Theo",
+    "startDate": "2026-04-26",
+    "startTime": "18:00",
+    "location": "Pilatusstrasse 21 CH-6003 Luzern Luzern",
+    "city": "Luzern",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/jeden-sonntag--ritmo-habana--salsa--bachata-all-styles-mit-dj-theo/6987/",
     "source": "scraper"
   },
   {
@@ -583,6 +572,39 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-mittelstufe-2026-05-12",
+    "title": "Salsa Mittelstufe",
+    "startDate": "2026-05-12",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe/6530/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-05-12",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-12",
+    "startTime": "20:45",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6549/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-t-glich-salsa-bachata-und-kizombakurse-2026-05-13",
+    "title": "Täglich Salsa-, Bachata- und Kizombakurse",
+    "startDate": "2026-05-13",
+    "startTime": "19:00",
+    "location": "5610 Wohlen AG Wohlen AG",
+    "city": "Wohlen AG",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/taglich-salsa--bachata--und-kizombakurse/6865/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-salsabar-am-montag-2026-04-20",
     "title": "muévete SalsaBar am Montag",
     "startDate": "2026-04-20",
@@ -847,42 +869,6 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
     "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
     "title": "Saturday Ecstatic (PADMA SAM)",
     "startDate": "2026-05-09",
@@ -907,21 +893,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
-    "title": "Saturday Ecstatic (ANIKETA)",
-    "startDate": "2026-04-25",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -943,6 +917,30 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
     "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
     "startDate": "2026-06-27",
@@ -955,9 +953,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-04-18",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-04-18",
+    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
+    "title": "Saturday Ecstatic (JARIGE)",
+    "startDate": "2026-05-02",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -967,9 +965,21 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
+    "title": "Saturday Ecstatic (ANIKETA)",
+    "startDate": "2026-04-25",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -1280,29 +1290,14 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-kunz-ausverkauft-2026-04-18",
-    "title": "Kunz – AUSVERKAUFT!",
-    "startDate": "2026-04-18",
-    "endDate": "2026-04-19",
-    "startTime": "19:00",
-    "endTime": "00:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/kunz-18-04-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-80er-party-mit-dj-little-maze-2026-04-18",
-    "title": "80er Party mit DJ Little Maze",
-    "startDate": "2026-04-18",
-    "endDate": "2026-04-19",
-    "startTime": "22:00",
-    "endTime": "04:00",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/80er-party-mit-dj-little-maze-18-04-2026-konzerthaus-schuur-luzern",
+    "id": "kulturhof-ritschi-2026-06-12",
+    "title": "Ritschi",
+    "startDate": "2026-06-12",
+    "startTime": "20:30",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/ritschi/",
     "source": "scraper"
   },
   {
@@ -2236,18 +2231,6 @@
     "source": "scraper"
   },
   {
-    "id": "jazzkantine-don-jules-the-juliettes-velvet-2026-04-18",
-    "title": "Don Jules & The Juliettes & Velvet",
-    "startDate": "2026-04-18",
-    "startTime": "20:30",
-    "endTime": "23:00",
-    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.jazzkantine.com/veranstaltungen/don-jules-the-juliettes-velvet",
-    "source": "scraper"
-  },
-  {
     "id": "jazzkantine-kultur-im-graben-pr-sentiert-elian-zeitel-duo-2026-04-23",
     "title": "Kultur im Graben präsentiert: Elian Zeitel Duo",
     "startDate": "2026-04-23",
@@ -2269,6 +2252,18 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.jazzkantine.com/veranstaltungen/kultur-im-graben-prsentiert-evelyn-kristina-brunner",
+    "source": "scraper"
+  },
+  {
+    "id": "jazzkantine-austern-in-der-jazzkantine-2026-04-25",
+    "title": "Austern in der Jazzkantine",
+    "startDate": "2026-04-25",
+    "startTime": "15:00",
+    "endTime": "17:30",
+    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.jazzkantine.com/veranstaltungen/austern-vor-der-jazzkantine-1-xxst6-ladcd-8smez-j9wnb",
     "source": "scraper"
   },
   {
@@ -3076,6 +3071,16 @@
     "city": "Prague",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/pizza-day",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-pizza-day-26-2026-05-22",
+    "title": "Pizza Day 26",
+    "startDate": "2026-05-22",
+    "location": "Bury St Edmonds, UK",
+    "city": "Bury St Edmonds",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/pizza-day-26",
     "source": "scraper"
   },
   {
