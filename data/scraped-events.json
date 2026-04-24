@@ -1,24 +1,13 @@
 [
   {
-    "id": "tanzevents-baila-salsa-bachata-2026-04-23",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-04-23",
-    "startTime": "20:00",
-    "location": "baila salsa & bachata aarbergergasse 61, 3011 bern salsa bachata",
-    "city": "Schweiz",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/baila-salsa-bachata/6402/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-fridaynight-bananenreiferei-2026-04-24",
-    "title": "FridayNight @ Bananenreiferei",
+    "id": "tanzevents-freitags-in-z-rich-kubanische-tanzkurse-mit-mijail-galano-son-rumba-t",
+    "title": "Freitags in Zürich Kubanische Tanzkurse mit Mijail Galano ( Son - Rumba - Timba - Casino)",
     "startDate": "2026-04-24",
-    "startTime": "21:00",
-    "location": "8005 Zürich Zürich",
+    "startTime": "18:00",
+    "location": "8001 Zürich Zürich",
     "city": "Zürich",
     "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6693/",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/freitags-in-zurich-kubanische-tanzkurse-mit-mijail-galano--son---rumba---timba---casino/8084/",
     "source": "scraper"
   },
   {
@@ -583,28 +572,6 @@
     "source": "scraper"
   },
   {
-    "id": "tanzevents-salsa-anf-nger-2026-05-19",
-    "title": "Salsa Anfänger",
-    "startDate": "2026-05-19",
-    "startTime": "20:45",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6550/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-t-glich-salsa-bachata-und-kizombakurse-2026-05-20",
-    "title": "Täglich Salsa-, Bachata- und Kizombakurse",
-    "startDate": "2026-05-20",
-    "startTime": "19:00",
-    "location": "5610 Wohlen AG Wohlen AG",
-    "city": "Wohlen AG",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/taglich-salsa--bachata--und-kizombakurse/6866/",
-    "source": "scraper"
-  },
-  {
     "id": "muevete-mu-vete-im-progr-2026-04-24",
     "title": "muévete im Progr",
     "startDate": "2026-04-24",
@@ -857,45 +824,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-05-16",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
-    "title": "Saturday Ecstatic (ANIKETA)",
-    "startDate": "2026-04-25",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -917,9 +848,33 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-20",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
+    "startDate": "2026-05-16",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-aniketa-2026-04-25",
+    "title": "Saturday Ecstatic (ANIKETA)",
+    "startDate": "2026-04-25",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -941,9 +896,33 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
+    "title": "Saturday Ecstatic (JARIGE)",
+    "startDate": "2026-05-02",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -962,29 +941,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-20",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "planlos-2026-04-23-20-00",
-    "title": "Planlos Impro Theater",
-    "startDate": "2026-04-23",
-    "startTime": "20:00",
-    "location": "ONO, Kramgasse 6, 3011 Bern",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.onobern.ch",
     "source": "scraper"
   },
   {
@@ -1098,16 +1054,6 @@
     "source": "scraper"
   },
   {
-    "id": "danceapp-baila-salsa-bachata-2026-04-23",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-04-23",
-    "location": "Aarbergergasse 61, 3011 Bern",
-    "city": "Aarbergergasse 61, 3011 Bern",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6402",
-    "source": "scraper"
-  },
-  {
     "id": "danceapp-milonga-freitag-2026-04-24",
     "title": "Milonga Freitag",
     "startDate": "2026-04-24",
@@ -1188,6 +1134,16 @@
     "source": "scraper"
   },
   {
+    "id": "danceapp-brunchata-day-social-2026-05-03",
+    "title": "Brunchata Day Social",
+    "startDate": "2026-05-03",
+    "location": "Winterthur",
+    "city": "Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8083",
+    "source": "scraper"
+  },
+  {
     "id": "danceapp-baila-salsa-bachata-2026-05-07",
     "title": "BAILA SALSA & BACHATA",
     "startDate": "2026-05-07",
@@ -1249,8 +1205,8 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-ztanz-2026-04-28",
-    "title": "ZTANZ",
+    "id": "kulturhof-ztanz-der-etwas-andere-rave-mit-herz-2026-04-28",
+    "title": "ZTANZ | Der etwas andere Rave mit Herz",
     "startDate": "2026-04-28",
     "startTime": "19:00",
     "location": "Kulturhof Köniz",
@@ -1293,8 +1249,8 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-ztanz-2026-05-26",
-    "title": "ZTANZ",
+    "id": "kulturhof-ztanz-der-etwas-andere-rave-mit-herz-2026-05-26",
+    "title": "ZTANZ | Der etwas andere Rave mit Herz",
     "startDate": "2026-05-26",
     "startTime": "19:00",
     "location": "Kulturhof Köniz",
@@ -1315,8 +1271,8 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-metal-im-schloss-festival-2026-05-29",
-    "title": "Metal im Schloss | Festival",
+    "id": "kulturhof-metal-im-schloss-2026-05-29",
+    "title": "Metal im Schloss",
     "startDate": "2026-05-29",
     "startTime": "19:30",
     "location": "Kulturhof Köniz",
@@ -1326,8 +1282,8 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-konzert-unter-der-linde-i-knopf-trio-2026-06-10",
-    "title": "Konzert unter der Linde I KNOPF - TRIO",
+    "id": "kulturhof-konzert-unter-der-linde-knopf-trio-2026-06-10",
+    "title": "Konzert unter der Linde | KNOPF - TRIO",
     "startDate": "2026-06-10",
     "startTime": "20:00",
     "location": "Kulturhof Köniz",
@@ -1337,8 +1293,8 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-tanzen-im-schlosshof-tango-milonga-mit-dj-ren-2026-06-11",
-    "title": "Tanzen im Schlosshof | Tango Milonga mit DJ René",
+    "id": "kulturhof-tanzen-im-schlosshof-2026-06-11",
+    "title": "Tanzen im Schlosshof",
     "startDate": "2026-06-11",
     "startTime": "19:00",
     "location": "Kulturhof Köniz",
@@ -1359,21 +1315,8 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-noche-cubana-2026-04-23",
-    "title": "Noche Cubana",
-    "startDate": "2026-04-23",
-    "endDate": "2026-04-24",
-    "startTime": "21:00",
-    "endTime": "02:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/noche-cubana-23-04-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-skandal-2026-04-24",
-    "title": "Skandal",
+    "id": "schuur-skandal-ausverkauft-2026-04-24",
+    "title": "Skandal – AUSVERKAUFT",
     "startDate": "2026-04-24",
     "endDate": "2026-04-25",
     "startTime": "22:00",
@@ -2043,6 +1986,19 @@
     "source": "scraper"
   },
   {
+    "id": "schuur-fate-gear-2026-09-10",
+    "title": "Fate Gear",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-11",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/fate-gear-10-09-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
     "id": "schuur-f-ttes-b-2026-09-12",
     "title": "Fättes B",
     "startDate": "2026-09-12",
@@ -2277,15 +2233,16 @@
     "source": "scraper"
   },
   {
-    "id": "jazzkantine-kultur-im-graben-pr-sentiert-elian-zeitel-duo-2026-04-23",
-    "title": "Kultur im Graben präsentiert: Elian Zeitel Duo",
-    "startDate": "2026-04-23",
-    "startTime": "20:30",
-    "endTime": "22:00",
-    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
+    "id": "schuur-h-blockx-2027-02-23",
+    "title": "H-BLOCKX",
+    "startDate": "2027-02-23",
+    "endDate": "2027-02-24",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
     "city": "Luzern",
     "category": "ausgehen",
-    "url": "https://www.jazzkantine.com/veranstaltungen/kultur-im-graben-prsentiert-elian-zeitel-duo",
+    "url": "https://www.schuur.ch/programm/events/event-details/h-blockx-23-02-2027-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -2949,23 +2906,13 @@
     "source": "scraper"
   },
   {
-    "id": "bitvocation-bitcoin-hoover-dam-2026-04-23",
-    "title": "Bitcoin++ Hoover Dam",
-    "startDate": "2026-04-23",
-    "location": "Las Vegas, U.S.",
-    "city": "Las Vegas",
+    "id": "bitvocation-bitcoin-je-retro-2026-04-24",
+    "title": "Bitcoin je Retro",
+    "startDate": "2026-04-24",
+    "location": "Bratislava, Slovakia",
+    "city": "Bratislava",
     "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-hoover-dam",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-swiss-bitcoin-conference-2026-04-23",
-    "title": "Swiss Bitcoin Conference",
-    "startDate": "2026-04-23",
-    "location": "Kreuzlingen, Switzerland",
-    "city": "Kreuzlingen",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/swiss-bitcoin-conference",
+    "url": "https://bitvocation.com/to/bitcoin-je-retro",
     "source": "scraper"
   },
   {
@@ -3599,16 +3546,6 @@
     "source": "scraper"
   },
   {
-    "id": "bitvocation-bitcoin-a-competitive-advantage-2026-11-21",
-    "title": "Bitcoin: A Competitive Advantage",
-    "startDate": "2026-11-21",
-    "location": "Derby, UK",
-    "city": "Derby",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-a-competitive-advantage",
-    "source": "scraper"
-  },
-  {
     "id": "bitvocation-africa-bitcoin-conference-2026-12-02",
     "title": "Africa Bitcoin Conference",
     "startDate": "2026-12-02",
@@ -3636,6 +3573,16 @@
     "city": "San Salvador",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/plan-b-forum-el-salvador",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-bitblockboom-2027-04-01",
+    "title": "BitBlockBoom",
+    "startDate": "2027-04-01",
+    "location": "Fort Worth, TX, U.S.",
+    "city": "Fort Worth, TX",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/bitblockboom",
     "source": "scraper"
   }
 ]
