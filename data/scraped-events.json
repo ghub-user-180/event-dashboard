@@ -1,38 +1,5 @@
 [
   {
-    "id": "tanzevents-salsa-partnerwork-2026-04-27",
-    "title": "SALSA Partnerwork",
-    "startDate": "2026-04-27",
-    "startTime": "18:20",
-    "location": "Dance Spot Zurich Zürich Opfikon",
-    "city": "Zürich Opfikon",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/7466/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-anf-nger-2026-04-27",
-    "title": "Salsa Anfänger",
-    "startDate": "2026-04-27",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6490/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-fortgeschritten-2026-04-27",
-    "title": "Salsa Fortgeschritten",
-    "startDate": "2026-04-27",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6509/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-mittelstufe-2026-04-28",
     "title": "Salsa Mittelstufe",
     "startDate": "2026-04-28",
@@ -173,17 +140,6 @@
     "city": "Kriens",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/morning-lady---ladystyle-wochenkurs/7441/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-partnerwork-2026-05-04",
-    "title": "SALSA Partnerwork",
-    "startDate": "2026-05-04",
-    "startTime": "18:20",
-    "location": "Dance Spot Zurich Zürich Opfikon",
-    "city": "Zürich Opfikon",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/7467/",
     "source": "scraper"
   },
   {
@@ -330,17 +286,6 @@
     "source": "scraper"
   },
   {
-    "id": "tanzevents-salsa-partnerwork-2026-05-11",
-    "title": "SALSA Partnerwork",
-    "startDate": "2026-05-11",
-    "startTime": "18:20",
-    "location": "Dance Spot Zurich Zürich Opfikon",
-    "city": "Zürich Opfikon",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/7468/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-anf-nger-2026-05-11",
     "title": "Salsa Anfänger",
     "startDate": "2026-05-11",
@@ -473,17 +418,6 @@
     "source": "scraper"
   },
   {
-    "id": "tanzevents-salsa-partnerwork-2026-05-18",
-    "title": "SALSA Partnerwork",
-    "startDate": "2026-05-18",
-    "startTime": "18:20",
-    "location": "Dance Spot Zurich Zürich Opfikon",
-    "city": "Zürich Opfikon",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/7469/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-anf-nger-2026-05-18",
     "title": "Salsa Anfänger",
     "startDate": "2026-05-18",
@@ -594,15 +528,58 @@
     "source": "scraper"
   },
   {
-    "id": "muevete-mu-vete-salsabar-am-montag-2026-04-27",
-    "title": "muévete SalsaBar am Montag",
-    "startDate": "2026-04-27",
-    "startTime": "20:00",
-    "endTime": "23:00",
-    "location": "Bern",
-    "city": "Bern",
+    "id": "tanzevents-domingo-latino-2026-05-24",
+    "title": "Domingo Latino",
+    "startDate": "2026-05-24",
+    "startTime": "21:15",
+    "location": "9015 St.Gallen St.Gallen",
+    "city": "Bionstrasse 4 St.Gallen",
     "category": "tanz-buehne",
-    "url": "https://www.muevete.ch/salsaparties/",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/domingo-latino/6796/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-mittelstufe-m-f-montags-monday-lunes-2026-05-25",
+    "title": "Salsa Mittelstufe  ( M-F ) (Montags Monday Lunes)",
+    "startDate": "2026-05-25",
+    "startTime": "19:30",
+    "location": "8003 Zürich Zürich",
+    "city": "Zürich",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6761/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-05-25",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-25",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6494/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-fortgeschritten-2026-05-25",
+    "title": "Salsa Fortgeschritten",
+    "startDate": "2026-05-25",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6513/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-mittelstufe-2026-05-26",
+    "title": "Salsa Mittelstufe",
+    "startDate": "2026-05-26",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe/6532/",
     "source": "scraper"
   },
   {
@@ -834,6 +811,54 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
+    "title": "Saturday Ecstatic (JARIGE)",
+    "startDate": "2026-05-02",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
     "startDate": "2026-05-16",
@@ -858,9 +883,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -873,54 +898,6 @@
     "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
     "title": "Saturday Ecstatic (ANGELA ALASKA)",
     "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
-    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
-    "startDate": "2026-06-27",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -1052,16 +1029,6 @@
     "source": "scraper"
   },
   {
-    "id": "danceapp-always-ballroom-2026-04-27",
-    "title": "Always Ballroom",
-    "startDate": "2026-04-27",
-    "location": "Pfäffikon ZH",
-    "city": "Pfäffikon ZH",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6391",
-    "source": "scraper"
-  },
-  {
     "id": "danceapp-diva-dance-classes-by-eva-wednesdays-2026-04-29",
     "title": "Diva Dance Classes by Eva (Wednesdays)",
     "startDate": "2026-04-29",
@@ -1079,6 +1046,26 @@
     "city": "Aarbergergasse 61, 3011 Bern",
     "category": "tanz-buehne",
     "url": "https://danceapp.ch/event.php?id=6403",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-kizomba-bachata-social-dance-2026-04-30",
+    "title": "Kizomba & Bachata Social Dance",
+    "startDate": "2026-04-30",
+    "location": "Cham/ZG",
+    "city": "Cham/ZG",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8132",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-bachata-workshop-by-fds-zug-2026-05-01",
+    "title": "Bachata Workshop by FDS Zug",
+    "startDate": "2026-05-01",
+    "location": "Zug",
+    "city": "Zug",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8134",
     "source": "scraper"
   },
   {
@@ -1189,6 +1176,78 @@
     "city": "Cham/ZG",
     "category": "tanz-buehne",
     "url": "https://danceapp.ch/event.php?id=8120",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-baila-salsa-bachata-2026-05-14",
+    "title": "BAILA SALSA & BACHATA",
+    "startDate": "2026-05-14",
+    "location": "Aarbergergasse 61, 3011 Bern",
+    "city": "Aarbergergasse 61, 3011 Bern",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=6405",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-xplosion-ritmo-berlin-festival-2026-festival-of-next-generation-2026-05",
+    "title": "Xplosion RITMO BERLIN Festival 2026 - Festival of Next Generation",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-18",
+    "startTime": "14:00",
+    "location": "Berlin",
+    "city": "Berlin",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=6775",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-tanzschule-wil-ballett-und-tanz-unterricht-tanz-ballettschule-wil-meta-",
+    "title": "Tanzschule Wil – Ballett und Tanz Unterricht | Tanz-Ballettschule Wil · Meta",
+    "startDate": "2026-05-15",
+    "location": "Balettschule WIl",
+    "city": "Balettschule WIl",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8028",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-milonga-freitag-2026-05-15",
+    "title": "Milonga Freitag",
+    "startDate": "2026-05-15",
+    "location": "St.Gallen",
+    "city": "St.Gallen",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8043",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-latin-fit-dance-by-natalia-naty-2026-05-16",
+    "title": "Latin Fit Dance by Natalia (Naty)",
+    "startDate": "2026-05-16",
+    "location": "Cham",
+    "city": "Cham",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=7235",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-latin-fit-dance-f-r-kids-by-natalia-naty-2026-05-16",
+    "title": "Latin Fit Dance für KIDS by Natalia (Naty)",
+    "startDate": "2026-05-16",
+    "location": "Cham",
+    "city": "Cham",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=7207",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-diva-dance-classes-by-eva-wednesdays-2026-05-20",
+    "title": "Diva Dance Classes by Eva (Wednesdays)",
+    "startDate": "2026-05-20",
+    "location": "Cham/ZG",
+    "city": "Cham/ZG",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8121",
     "source": "scraper"
   },
   {
@@ -1867,8 +1926,8 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-amenra-2026-08-11",
-    "title": "Amenra",
+    "id": "schuur-amenra-einzige-ch-show-2026-08-11",
+    "title": "Amenra – Einzige CH-Show!",
     "startDate": "2026-08-11",
     "endDate": "2026-08-12",
     "startTime": "19:00",
@@ -2192,8 +2251,8 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-h-blockx-only-ch-show-2027-02-23",
-    "title": "H-BLOCKX – Only CH-Show",
+    "id": "schuur-h-blockx-einzige-ch-show-2027-02-23",
+    "title": "H-BLOCKX – Einzige CH-Show!",
     "startDate": "2027-02-23",
     "endDate": "2027-02-24",
     "startTime": "19:00",
@@ -2804,26 +2863,6 @@
     "category": "retreats",
     "description": "Non-tantra festival about sexuality, relationships & body awareness.",
     "url": "https://www.sensualityfestival.com",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-bitcoin-las-vegas-2026-04-27",
-    "title": "Bitcoin Las Vegas",
-    "startDate": "2026-04-27",
-    "location": "Las Vegas, U.S.",
-    "city": "Las Vegas",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-las-vegas",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-unconfiscatable-2026-04-27",
-    "title": "Unconfiscatable",
-    "startDate": "2026-04-27",
-    "location": "Las Vegas, U.S.",
-    "city": "Las Vegas",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/unconfiscatable",
     "source": "scraper"
   },
   {
