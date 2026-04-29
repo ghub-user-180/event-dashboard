@@ -1,49 +1,5 @@
 [
   {
-    "id": "tanzevents-salsa-mittelstufe-2026-04-28",
-    "title": "Salsa Mittelstufe",
-    "startDate": "2026-04-28",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe/6528/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-anf-nger-2026-04-28",
-    "title": "Salsa Anfänger",
-    "startDate": "2026-04-28",
-    "startTime": "20:45",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6547/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-t-glich-salsa-bachata-und-kizombakurse-2026-04-29",
-    "title": "Täglich Salsa-, Bachata- und Kizombakurse",
-    "startDate": "2026-04-29",
-    "startTime": "19:00",
-    "location": "5610 Wohlen AG Wohlen AG",
-    "city": "Wohlen AG",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/taglich-salsa--bachata--und-kizombakurse/6863/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsaare-2026-04-29",
-    "title": "Salsaare",
-    "startDate": "2026-04-29",
-    "startTime": "20:00",
-    "location": "2026 Virtuality Sagl Virtuality Sagl",
-    "city": "Virtuality Sagl",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsaare/6849/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-anf-nger-2026-04-29",
     "title": "Salsa Anfänger",
     "startDate": "2026-04-29",
@@ -583,6 +539,50 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-anf-nger-2026-05-26",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-26",
+    "startTime": "20:45",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6551/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-t-glich-salsa-bachata-und-kizombakurse-2026-05-27",
+    "title": "Täglich Salsa-, Bachata- und Kizombakurse",
+    "startDate": "2026-05-27",
+    "startTime": "19:00",
+    "location": "5610 Wohlen AG Wohlen AG",
+    "city": "Wohlen AG",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/taglich-salsa--bachata--und-kizombakurse/6867/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsaare-2026-05-27",
+    "title": "Salsaare",
+    "startDate": "2026-05-27",
+    "startTime": "20:00",
+    "location": "2026 Virtuality Sagl Virtuality Sagl",
+    "city": "Virtuality Sagl",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsaare/6853/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-05-27",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-05-27",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6569/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-tarde-cubana-2026-05-03",
     "title": "Tarde Cubana",
     "startDate": "2026-05-03",
@@ -771,10 +771,10 @@
     "source": "scraper"
   },
   {
-    "id": "latinpromotion-salsa-im-dukes-sihl3-2026-05-01",
+    "id": "latinpromotion-salsa-im-dukes-sihl3-2026-05-15",
     "title": "Salsa im Dukes Sihl3",
-    "startDate": "2026-05-01",
-    "location": "Freitag  , 8816 Sihlbrugg Gratis Eintritt ab 21:00 mit DJ Giovanni",
+    "startDate": "2026-05-15",
+    "location": "Freitag  , 8816 Sihlbrugg Gratis Eintritt ab 21:00 mit DJ Giovanni, bei schönem Wetter inkl. Outdoor!",
     "city": "Freitag",
     "category": "tanz-buehne",
     "url": "https://www.latinpromotion.ch/salsa-kalender/",
@@ -811,9 +811,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -823,9 +823,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -847,18 +847,6 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
-    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
-    "startDate": "2026-06-27",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
     "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
     "startDate": "2026-05-16",
@@ -871,9 +859,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-20",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -895,9 +883,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -907,9 +895,21 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
     "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-20",
+    "startDate": "2026-06-06",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -1159,6 +1159,18 @@
     "source": "scraper"
   },
   {
+    "id": "danceapp-all-you-can-dance-night-in-st-gallen-2026-05-09",
+    "title": "All you can Dance Night in St. Gallen!!!",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-10",
+    "startTime": "20:00",
+    "location": "St. Gallen",
+    "city": "St. Gallen",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8135",
+    "source": "scraper"
+  },
+  {
     "id": "danceapp-always-ballroom-2026-05-11",
     "title": "Always Ballroom",
     "startDate": "2026-05-11",
@@ -1262,17 +1274,6 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-ztanz-der-etwas-andere-rave-mit-herz-2026-04-28",
-    "title": "ZTANZ | Der etwas andere Rave mit Herz",
-    "startDate": "2026-04-28",
-    "startTime": "19:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/4498/",
-    "source": "scraper"
-  },
-  {
     "id": "kulturhof-spacenight-mit-dj-s-franctone-aviva-2026-05-13",
     "title": "Spacenight mit DJ's Franctone & AViVA",
     "startDate": "2026-05-13",
@@ -1369,6 +1370,17 @@
     "city": "Köniz",
     "category": "tanz-buehne",
     "url": "https://www.kulturhof.ch/veranstaltung/ritschi/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-konzert-unter-der-linde-flo-bauer-blues-project-2026-06-17",
+    "title": "KONZERT UNTER DER LINDE | FLO BAUER BLUES PROJECT",
+    "startDate": "2026-06-17",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/konzert-unter-der-linde-i-flo-bauer-blues-project/",
     "source": "scraper"
   },
   {
@@ -2504,8 +2516,8 @@
     "source": "scraper"
   },
   {
-    "id": "vbg-exer-zi-tien-im-sommer-2026-07-05",
-    "title": "Exer­zi­tien im Sommer",
+    "id": "vbg-exer-zi-tien-im-sommer-ausgebucht-2026-07-05",
+    "title": "Exer­zi­tien im Sommer (ausgebucht)",
     "startDate": "2026-07-05",
     "endDate": "2026-07-11",
     "location": "Schweiz",
