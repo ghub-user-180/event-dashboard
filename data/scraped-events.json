@@ -1,16 +1,5 @@
 [
   {
-    "id": "tanzevents-domingo-latino-2026-05-03",
-    "title": "Domingo Latino",
-    "startDate": "2026-05-03",
-    "startTime": "21:15",
-    "location": "9015 St.Gallen St.Gallen",
-    "city": "Bionstrasse 4 St.Gallen",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/domingo-latino/6793/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-mittelstufe-m-f-montags-monday-lunes-2026-05-04",
     "title": "Salsa Mittelstufe  ( M-F ) (Montags Monday Lunes)",
     "startDate": "2026-05-04",
@@ -572,6 +561,216 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-mittelstufe-m-f-montags-monday-lunes-2026-06-01",
+    "title": "Salsa Mittelstufe  ( M-F ) (Montags Monday Lunes)",
+    "startDate": "2026-06-01",
+    "startTime": "19:30",
+    "location": "8003 Zürich Zürich",
+    "city": "Zürich",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6762/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-06-01",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-06-01",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6495/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-tarde-cubana-2026-05-03",
+    "title": "Tarde Cubana",
+    "startDate": "2026-05-03",
+    "startTime": "18:30",
+    "endTime": "22:30",
+    "location": "Sternensaal Bümpliz",
+    "city": "Sternensaal Bümpliz",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-04",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-05-04",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-im-progr-2026-05-08",
+    "title": "muévete im Progr",
+    "startDate": "2026-05-08",
+    "startTime": "21:30",
+    "endTime": "02:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-11",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-05-11",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-in-rimini-2026-05-13",
+    "title": "muévete in Rimini",
+    "startDate": "2026-05-13",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-18",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-05-18",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-tarde-cubana-2026-05-24",
+    "title": "Tarde Cubana",
+    "startDate": "2026-05-24",
+    "startTime": "18:30",
+    "endTime": "22:30",
+    "location": "Sternensaal Bümpliz",
+    "city": "Sternensaal Bümpliz",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-25",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-05-25",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-06-01",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-06-01",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-06-08",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-06-08",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-06-15",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-06-15",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-06-22",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-06-22",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-tarde-cubana-meets-salsa-y-pasion-2026-06-28",
+    "title": "Tarde Cubana meets Salsa y Pasion",
+    "startDate": "2026-06-28",
+    "startTime": "18:30",
+    "endTime": "22:30",
+    "location": "Turtle Beach Faulensee",
+    "city": "Turtle Beach Faulensee",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-mu-vete-salsabar-am-montag-2026-06-29",
+    "title": "muévete SalsaBar am Montag",
+    "startDate": "2026-06-29",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-muevete-salsawoche-1-2026-08-07",
+    "title": "muevete Salsawoche 1. –",
+    "startDate": "2026-08-07",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
+    "id": "muevete-tarde-cubana-meets-salsa-y-pasion-2026-08-23",
+    "title": "Tarde Cubana meets Salsa y Pasion",
+    "startDate": "2026-08-23",
+    "startTime": "18:30",
+    "endTime": "22:30",
+    "location": "Turtle Beach Faulensee",
+    "city": "Turtle Beach Faulensee",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
     "id": "latinpromotion-salsa-im-dukes-sihl3-2026-05-15",
     "title": "Salsa im Dukes Sihl3",
     "startDate": "2026-05-15",
@@ -612,66 +811,6 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-20",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
     "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
     "title": "Saturday Ecstatic (PADMA SAM)",
     "startDate": "2026-05-30",
@@ -696,6 +835,42 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-20",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
     "startDate": "2026-05-16",
@@ -708,9 +883,21 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jarige-2026-05-02",
-    "title": "Saturday Ecstatic (JARIGE)",
-    "startDate": "2026-05-02",
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -827,26 +1014,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.onobern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-latin-fit-dance-by-natalia-naty-2026-05-02",
-    "title": "Latin Fit Dance by Natalia (Naty)",
-    "startDate": "2026-05-02",
-    "location": "Cham",
-    "city": "Cham",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=7233",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-latin-fit-dance-f-r-kids-by-natalia-naty-2026-05-02",
-    "title": "Latin Fit Dance für KIDS by Natalia (Naty)",
-    "startDate": "2026-05-02",
-    "location": "Cham",
-    "city": "Cham",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=7205",
     "source": "scraper"
   },
   {
@@ -1183,31 +1350,6 @@
     "city": "Köniz",
     "category": "tanz-buehne",
     "url": "https://www.kulturhof.ch/veranstaltung/50-jahre-musikschule-koeniz/",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-wintershome-2026-05-02",
-    "title": "Wintershome",
-    "startDate": "2026-05-02",
-    "endDate": "2026-05-03",
-    "startTime": "19:30",
-    "endTime": "00:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/wintershome-02-05-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-pop-til-you-drop-2026-05-02",
-    "title": "Pop 'Til You Drop",
-    "startDate": "2026-05-02",
-    "startTime": "22:00",
-    "endTime": "04:00",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/pop-til-you-drop-02-05-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -2503,18 +2645,6 @@
     "source": "scraper"
   },
   {
-    "id": "jazzkantine-anger-mgmt-baffo-d-oro-2026-05-02",
-    "title": "Anger Mgmt. & Baffo d'Oro",
-    "startDate": "2026-05-02",
-    "startTime": "20:30",
-    "endTime": "23:00",
-    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.jazzkantine.com/veranstaltungen/anger-mgmt-baffo-doro",
-    "source": "scraper"
-  },
-  {
     "id": "jazzkantine-miss-c-line-2026-05-08",
     "title": "MISS C-LINE",
     "startDate": "2026-05-08",
@@ -2548,6 +2678,18 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.jazzkantine.com/veranstaltungen/irish-night-mit-tin",
+    "source": "scraper"
+  },
+  {
+    "id": "jazzkantine-spargeltavolata-2026-05-23",
+    "title": "Spargeltavolata",
+    "startDate": "2026-05-23",
+    "startTime": "18:30",
+    "endTime": "23:00",
+    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.jazzkantine.com/veranstaltungen/spargeltavolata",
     "source": "scraper"
   },
   {
@@ -2596,16 +2738,6 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.jazzkantine.com/veranstaltungen/theater-sonst-war-es-schn",
-    "source": "scraper"
-  },
-  {
-    "id": "vbg-stil-ler-tag-2026-05-02",
-    "title": "Stil­ler Tag",
-    "startDate": "2026-05-02",
-    "location": "Schweiz",
-    "city": "Schweiz",
-    "category": "retreats",
-    "url": "https://www.vbg.net/auszeit/2026/05/stiller-tag",
     "source": "scraper"
   },
   {
