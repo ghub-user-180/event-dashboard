@@ -1,27 +1,5 @@
 [
   {
-    "id": "tanzevents-salsa-anf-nger-2026-05-04",
-    "title": "Salsa Anfänger",
-    "startDate": "2026-05-04",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6491/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-fortgeschritten-2026-05-04",
-    "title": "Salsa Fortgeschritten",
-    "startDate": "2026-05-04",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6510/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-salsa-mittelstufe-2026-05-05",
     "title": "Salsa Mittelstufe",
     "startDate": "2026-05-05",
@@ -151,6 +129,17 @@
     "city": "Zürich",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6759/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-partnerwork-2026-05-11",
+    "title": "SALSA Partnerwork",
+    "startDate": "2026-05-11",
+    "startTime": "18:20",
+    "location": "Dance Spot Zurich Zürich Opfikon",
+    "city": "Zürich Opfikon",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/8181/",
     "source": "scraper"
   },
   {
@@ -286,6 +275,17 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-partnerwork-2026-05-18",
+    "title": "SALSA Partnerwork",
+    "startDate": "2026-05-18",
+    "startTime": "18:20",
+    "location": "Dance Spot Zurich Zürich Opfikon",
+    "city": "Zürich Opfikon",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/8182/",
+    "source": "scraper"
+  },
+  {
     "id": "tanzevents-salsa-anf-nger-2026-05-18",
     "title": "Salsa Anfänger",
     "startDate": "2026-05-18",
@@ -415,6 +415,17 @@
     "city": "Zürich",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe---m-f--montags-monday-lunes/6761/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-partnerwork-2026-05-25",
+    "title": "SALSA Partnerwork",
+    "startDate": "2026-05-25",
+    "startTime": "18:20",
+    "location": "Dance Spot Zurich Zürich Opfikon",
+    "city": "Zürich Opfikon",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/8183/",
     "source": "scraper"
   },
   {
@@ -550,6 +561,17 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-partnerwork-2026-06-01",
+    "title": "SALSA Partnerwork",
+    "startDate": "2026-06-01",
+    "startTime": "18:20",
+    "location": "Dance Spot Zurich Zürich Opfikon",
+    "city": "Zürich Opfikon",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-partnerwork/8184/",
+    "source": "scraper"
+  },
+  {
     "id": "tanzevents-salsa-anf-nger-2026-06-01",
     "title": "Salsa Anfänger",
     "startDate": "2026-06-01",
@@ -558,40 +580,6 @@
     "city": "8400 Winterthur",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6495/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-fortgeschritten-2026-06-01",
-    "title": "Salsa Fortgeschritten",
-    "startDate": "2026-06-01",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6514/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-mittelstufe-2026-06-02",
-    "title": "Salsa Mittelstufe",
-    "startDate": "2026-06-02",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe/6533/",
-    "source": "scraper"
-  },
-  {
-    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-04",
-    "title": "muévete SalsaBar am Montag",
-    "startDate": "2026-05-04",
-    "startTime": "20:00",
-    "endTime": "23:00",
-    "location": "Bern",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.muevete.ch/salsaparties/",
     "source": "scraper"
   },
   {
@@ -799,9 +787,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
-    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
-    "startDate": "2026-06-27",
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -823,9 +811,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
     "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-20",
+    "startDate": "2026-06-06",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -835,21 +823,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -871,9 +847,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -886,6 +862,18 @@
     "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
     "startDate": "2026-05-16",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-20",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -2235,6 +2223,19 @@
     "source": "scraper"
   },
   {
+    "id": "schuur-kim-dracula-einzige-ch-show-2026-08-06",
+    "title": "Kim Dracula – Einzige CH-Show!",
+    "startDate": "2026-08-06",
+    "endDate": "2026-08-07",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/kim-dracula-06-08-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
     "id": "schuur-gartenkonzert-florian-paul-die-kapelle-der-letzten-hoffnung-2026-08-07",
     "title": "Gartenkonzert: Florian Paul & Die Kapelle der letzten Hoffnung",
     "startDate": "2026-08-07",
@@ -2465,6 +2466,19 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.schuur.ch/programm/events/event-details/finojet-21-10-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
+    "id": "schuur-marc-amacher-2026-10-22",
+    "title": "Marc Amacher",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-23",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/marc-amacher-22-10-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -3614,8 +3628,8 @@
     "id": "bitvocation-bitcoin-asia-2026-08-27",
     "title": "Bitcoin Asia",
     "startDate": "2026-08-27",
-    "location": "Hongkong",
-    "city": "",
+    "location": "Hongkong, China",
+    "city": "Hongkong",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/bitcoin-asia",
     "source": "scraper"
@@ -3624,7 +3638,7 @@
     "id": "bitvocation-bthechange-2026-08-29",
     "title": "BTheChange",
     "startDate": "2026-08-29",
-    "location": "Glasgow, U.K.",
+    "location": "Glasgow, UK",
     "city": "Glasgow",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/bthechange",
@@ -3838,6 +3852,16 @@
     "city": "San Salvador",
     "category": "festivals-konferenzen",
     "url": "https://bitvocation.com/to/plan-b-forum-el-salvador",
+    "source": "scraper"
+  },
+  {
+    "id": "bitvocation-adopting-bitcoin-cape-town-2027-02-26",
+    "title": "Adopting Bitcoin Cape Town",
+    "startDate": "2027-02-26",
+    "location": "Cape Town, South Africa",
+    "city": "Cape Town",
+    "category": "festivals-konferenzen",
+    "url": "https://bitvocation.com/to/adopting-bitcoin-cape-town",
     "source": "scraper"
   },
   {
