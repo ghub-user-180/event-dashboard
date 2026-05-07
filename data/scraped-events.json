@@ -1,38 +1,5 @@
 [
   {
-    "id": "tanzevents-salsa-anf-nger-2026-05-06",
-    "title": "Salsa Anfänger",
-    "startDate": "2026-05-06",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6566/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-fortgeschritten-2026-05-06",
-    "title": "Salsa Fortgeschritten",
-    "startDate": "2026-05-06",
-    "startTime": "19:30",
-    "location": "Tösstalstrasse 160, 8400 Winterthur",
-    "city": "8400 Winterthur",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6584/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-salsa-einsteigerkurs-stufe-1-in-luzern-2026-05-06",
-    "title": "Salsa Einsteigerkurs Stufe 1 in Luzern",
-    "startDate": "2026-05-06",
-    "startTime": "20:30",
-    "location": "LUK center, Nidfeldstrasse 1 6010 Kriens Kriens",
-    "city": "Kriens",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-einsteigerkurs-stufe-1-in-luzern/8024/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-baila-salsa-bachata-2026-05-07",
     "title": "BAILA SALSA & BACHATA",
     "startDate": "2026-05-07",
@@ -583,6 +550,39 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsaare-2026-06-03",
+    "title": "Salsaare",
+    "startDate": "2026-06-03",
+    "startTime": "20:00",
+    "location": "2026 Virtuality Sagl Virtuality Sagl",
+    "city": "Virtuality Sagl",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsaare/6854/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-anf-nger-2026-06-03",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-06-03",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6570/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-fortgeschritten-2026-06-03",
+    "title": "Salsa Fortgeschritten",
+    "startDate": "2026-06-03",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6588/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-im-progr-2026-05-08",
     "title": "muévete im Progr",
     "startDate": "2026-05-08",
@@ -787,6 +787,18 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
     "title": "Saturday Ecstatic (ANGELA ALASKA)",
     "startDate": "2026-06-20",
@@ -811,33 +823,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
+    "startDate": "2026-05-16",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -859,9 +847,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-05-16",
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -871,9 +859,21 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
     "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -990,16 +990,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.onobern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-diva-dance-classes-by-eva-wednesdays-2026-05-06",
-    "title": "Diva Dance Classes by Eva (Wednesdays)",
-    "startDate": "2026-05-06",
-    "location": "Cham/ZG",
-    "city": "Cham/ZG",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=8119",
     "source": "scraper"
   },
   {
@@ -1208,127 +1198,6 @@
     "source": "scraper"
   },
   {
-    "id": "kulturhof-spacenight-mit-dj-s-franctone-aviva-2026-05-13",
-    "title": "Spacenight mit DJ's Franctone & AViVA",
-    "startDate": "2026-05-13",
-    "startTime": "20:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/4494/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-patti-basler-philippe-kuhn-2026-05-21",
-    "title": "Patti Basler & Philippe Kuhn",
-    "startDate": "2026-05-21",
-    "startTime": "20:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/patti-basler-philippe-kuhn-i-l%c2%a8cke-derniere/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-helga-disko-2026-05-22",
-    "title": "Helga! Disko",
-    "startDate": "2026-05-22",
-    "startTime": "21:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/helga-disko-4/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-ztanz-der-etwas-andere-rave-mit-herz-2026-05-26",
-    "title": "ZTANZ | Der etwas andere Rave mit Herz",
-    "startDate": "2026-05-26",
-    "startTime": "19:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/ztanz-15/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-ausverkauft-kruger-brothers-feat-jonah-horton-2026-05-27",
-    "title": "Ausverkauft: KRUGER BROTHERS feat. JONAH HORTON",
-    "startDate": "2026-05-27",
-    "startTime": "20:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/the-kruger-brothers-feat-jonah-horton/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-metal-im-schloss-2026-05-29",
-    "title": "Metal im Schloss",
-    "startDate": "2026-05-29",
-    "startTime": "19:30",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/metal-im-schloss-festival/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-konzert-unter-der-linde-knopf-trio-2026-06-10",
-    "title": "Konzert unter der Linde | KNOPF - TRIO",
-    "startDate": "2026-06-10",
-    "startTime": "20:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/knopf/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-tanzen-im-schlosshof-2026-06-11",
-    "title": "Tanzen im Schlosshof",
-    "startDate": "2026-06-11",
-    "startTime": "19:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/tanzen-im-schlosshof-tango-milonga-mit-dj-rene/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-ritschi-2026-06-12",
-    "title": "Ritschi",
-    "startDate": "2026-06-12",
-    "startTime": "20:30",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/ritschi/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-konzert-unter-der-linde-flo-bauer-blues-project-2026-06-17",
-    "title": "KONZERT UNTER DER LINDE | FLO BAUER BLUES PROJECT",
-    "startDate": "2026-06-17",
-    "startTime": "20:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/konzert-unter-der-linde-i-flo-bauer-blues-project/",
-    "source": "scraper"
-  },
-  {
-    "id": "kulturhof-50-jahre-musikschule-k-niz-2026-06-27",
-    "title": "50 Jahre Musikschule Köniz",
-    "startDate": "2026-06-27",
-    "startTime": "10:00",
-    "location": "Kulturhof Köniz",
-    "city": "Köniz",
-    "category": "tanz-buehne",
-    "url": "https://www.kulturhof.ch/veranstaltung/50-jahre-musikschule-koeniz/",
-    "source": "scraper"
-  },
-  {
     "id": "schuur-swmrs-2026-05-07",
     "title": "SWMRS",
     "startDate": "2026-05-07",
@@ -1368,8 +1237,8 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-tripkid-2026-05-09",
-    "title": "Tripkid",
+    "id": "schuur-tripkid-verschoben-2026-05-09",
+    "title": "Tripkid – VERSCHOBEN",
     "startDate": "2026-05-09",
     "endDate": "2026-05-10",
     "startTime": "19:30",
@@ -1381,16 +1250,16 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-let-me-entert-rzte-you-2026-05-09",
-    "title": "Let Me EntertÄrzte You",
+    "id": "schuur-all-to-get-her-2026-05-09",
+    "title": "All To Get Her",
     "startDate": "2026-05-09",
     "endDate": "2026-05-10",
-    "startTime": "22:00",
+    "startTime": "19:30",
     "endTime": "04:00",
     "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
     "city": "Luzern",
     "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/let-me-entertaerzte-you-09-05-2026-konzerthaus-schuur-luzern",
+    "url": "https://www.schuur.ch/programm/events/event-details/all-to-get-her-09-05-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -2400,6 +2269,19 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.schuur.ch/programm/events/event-details/reto-burrell-lin-stucki-01-10-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
+    "id": "schuur-tripkid-2026-10-08",
+    "title": "Tripkid",
+    "startDate": "2026-10-08",
+    "endDate": "2026-10-09",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/tripkid-09-05-2026-1-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
