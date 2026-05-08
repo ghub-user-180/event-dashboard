@@ -1,27 +1,5 @@
 [
   {
-    "id": "tanzevents-baila-salsa-bachata-2026-05-07",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-05-07",
-    "startTime": "20:00",
-    "location": "baila salsa & bachata aarbergergasse 61, 3011 bern salsa bachata",
-    "city": "Schweiz",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/baila-salsa-bachata/6404/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-fridaynight-bananenreiferei-2026-05-08",
-    "title": "FridayNight @ Bananenreiferei",
-    "startDate": "2026-05-08",
-    "startTime": "21:00",
-    "location": "8005 Zürich Zürich",
-    "city": "Zürich",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6695/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-freitags-in-z-rich-kubanische-tanzkurse-mit-mijail-galano-son-rumba-t",
     "title": "Freitags in Zürich Kubanische Tanzkurse mit Mijail Galano ( Son - Rumba - Timba - Casino)",
     "startDate": "2026-05-08",
@@ -583,6 +561,17 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-tanzabend-kaiser-tanz-2026-06-06",
+    "title": "Tanzabend @ KAISER TANZ",
+    "startDate": "2026-06-06",
+    "startTime": "20:00",
+    "location": "KAISER TANZSCHULE, Hottingerstrasse 30, 8032 Zürich Zürich",
+    "city": "Zürich",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/tanzabend--kaiser-tanz/7945/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-im-progr-2026-05-08",
     "title": "muévete im Progr",
     "startDate": "2026-05-08",
@@ -787,9 +776,33 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
+    "title": "Saturday Ecstatic (ANGELA ALASKA)",
+    "startDate": "2026-06-06",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
+    "startDate": "2026-05-16",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-09",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -811,21 +824,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
-    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
-    "startDate": "2026-06-27",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
     "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-05-16",
+    "startDate": "2026-06-13",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -859,21 +860,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-06",
-    "title": "Saturday Ecstatic (ANGELA ALASKA)",
-    "startDate": "2026-06-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-09",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-09",
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -990,16 +979,6 @@
     "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.onobern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-baila-salsa-bachata-2026-05-07",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-05-07",
-    "location": "Aarbergergasse 61, 3011 Bern",
-    "city": "Aarbergergasse 61, 3011 Bern",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6404",
     "source": "scraper"
   },
   {
@@ -1187,6 +1166,16 @@
     "source": "scraper"
   },
   {
+    "id": "danceapp-diva-dance-classes-by-eva-wednesdays-2026-05-27",
+    "title": "Diva Dance Classes by Eva (Wednesdays)",
+    "startDate": "2026-05-27",
+    "location": "Cham/ZG",
+    "city": "Cham/ZG",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8122",
+    "source": "scraper"
+  },
+  {
     "id": "roseway-roseway-am-60-geburtstag-der-vfk-2026-05-30",
     "title": "Roseway am 60. Geburtstag der VFK",
     "startDate": "2026-05-30",
@@ -1198,29 +1187,124 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-swmrs-2026-05-07",
-    "title": "SWMRS",
-    "startDate": "2026-05-07",
-    "endDate": "2026-05-08",
-    "startTime": "19:00",
-    "endTime": "00:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/swmrs-07-05-2026-konzerthaus-schuur-luzern",
+    "id": "kulturhof-spacenight-mit-dj-s-franctone-aviva-2026-05-13",
+    "title": "Spacenight mit DJ's Franctone & AViVA",
+    "startDate": "2026-05-13",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/4494/",
     "source": "scraper"
   },
   {
-    "id": "schuur-noche-cubana-2026-05-07",
-    "title": "Noche Cubana",
-    "startDate": "2026-05-07",
-    "endDate": "2026-05-08",
+    "id": "kulturhof-patti-basler-philippe-kuhn-2026-05-21",
+    "title": "Patti Basler & Philippe Kuhn",
+    "startDate": "2026-05-21",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/patti-basler-philippe-kuhn-i-l%c2%a8cke-derniere/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-helga-disko-2026-05-22",
+    "title": "Helga! Disko",
+    "startDate": "2026-05-22",
     "startTime": "21:00",
-    "endTime": "02:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/noche-cubana-07-05-2026-konzerthaus-schuur-luzern",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/helga-disko-4/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-ztanz-der-etwas-andere-rave-mit-herz-2026-05-26",
+    "title": "ZTANZ | Der etwas andere Rave mit Herz",
+    "startDate": "2026-05-26",
+    "startTime": "19:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/ztanz-15/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-ausverkauft-kruger-brothers-feat-jonah-horton-2026-05-27",
+    "title": "Ausverkauft: KRUGER BROTHERS feat. JONAH HORTON",
+    "startDate": "2026-05-27",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/the-kruger-brothers-feat-jonah-horton/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-metal-im-schloss-2026-05-29",
+    "title": "Metal im Schloss",
+    "startDate": "2026-05-29",
+    "startTime": "19:30",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/metal-im-schloss-festival/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-konzert-unter-der-linde-knopf-trio-2026-06-10",
+    "title": "Konzert unter der Linde | KNOPF - TRIO",
+    "startDate": "2026-06-10",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/knopf/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-tanzen-im-schlosshof-2026-06-11",
+    "title": "Tanzen im Schlosshof",
+    "startDate": "2026-06-11",
+    "startTime": "19:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/tanzen-im-schlosshof-tango-milonga-mit-dj-rene/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-ritschi-2026-06-12",
+    "title": "Ritschi",
+    "startDate": "2026-06-12",
+    "startTime": "20:30",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/ritschi/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-konzert-unter-der-linde-flo-bauer-blues-project-2026-06-17",
+    "title": "KONZERT UNTER DER LINDE | FLO BAUER BLUES PROJECT",
+    "startDate": "2026-06-17",
+    "startTime": "20:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/konzert-unter-der-linde-i-flo-bauer-blues-project/",
+    "source": "scraper"
+  },
+  {
+    "id": "kulturhof-50-jahre-musikschule-k-niz-2026-06-27",
+    "title": "50 Jahre Musikschule Köniz",
+    "startDate": "2026-06-27",
+    "startTime": "10:00",
+    "location": "Kulturhof Köniz",
+    "city": "Köniz",
+    "category": "tanz-buehne",
+    "url": "https://www.kulturhof.ch/veranstaltung/50-jahre-musikschule-koeniz/",
     "source": "scraper"
   },
   {
@@ -2064,6 +2148,19 @@
     "source": "scraper"
   },
   {
+    "id": "schuur-gartenkonzert-luuk-2026-07-24",
+    "title": "Gartenkonzert: Luuk",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-25",
+    "startTime": "19:00",
+    "endTime": "00:30",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/gartenkonzert-luuk-24-07-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
     "id": "schuur-gartenkonzert-langue-erotique-2026-07-25",
     "title": "Gartenkonzert: Langue Erotique",
     "startDate": "2026-07-25",
@@ -2165,6 +2262,19 @@
     "city": "Luzern",
     "category": "ausgehen",
     "url": "https://www.schuur.ch/programm/events/event-details/sacred-reich-12-08-2026-konzerthaus-schuur-luzern",
+    "source": "scraper"
+  },
+  {
+    "id": "schuur-gartenkonzert-the-young-gods-2026-08-14",
+    "title": "Gartenkonzert: The Young Gods",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-15",
+    "startTime": "19:00",
+    "endTime": "04:00",
+    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
+    "city": "Luzern",
+    "category": "ausgehen",
+    "url": "https://www.schuur.ch/programm/events/event-details/gartenkonzert-the-young-gods-14-08-2026-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -3083,6 +3193,17 @@
     "city": "Casa Moscia",
     "category": "retreats",
     "url": "https://www.vbg.net/auszeit/studi/2026/12/neujahrskurs-fuer-studierende",
+    "source": "scraper"
+  },
+  {
+    "id": "vbg-fh-weekend-2027-2027-04-09",
+    "title": "FH-​Weekend 2027",
+    "startDate": "2027-04-09",
+    "endDate": "2027-04-11",
+    "location": "Schweiz",
+    "city": "Schweiz",
+    "category": "retreats",
+    "url": "https://www.vbg.net/auszeit/studi/2027/04/fh-weekend-2027",
     "source": "scraper"
   },
   {
