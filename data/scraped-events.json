@@ -1,38 +1,5 @@
 [
   {
-    "id": "tanzevents-baila-salsa-bachata-2026-05-14",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-05-14",
-    "startTime": "20:00",
-    "location": "baila salsa & bachata aarbergergasse 61, 3011 bern salsa bachata",
-    "city": "Schweiz",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/baila-salsa-bachata/6405/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-fridaynight-bananenreiferei-2026-05-15",
-    "title": "FridayNight @ Bananenreiferei",
-    "startDate": "2026-05-15",
-    "startTime": "21:00",
-    "location": "8005 Zürich Zürich",
-    "city": "Zürich",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6696/",
-    "source": "scraper"
-  },
-  {
-    "id": "tanzevents-freitags-in-z-rich-kubanische-tanzkurse-mit-mijail-galano-son-rumba-t",
-    "title": "Freitags in Zürich Kubanische Tanzkurse mit Mijail Galano ( Son - Rumba - Timba - Casino)",
-    "startDate": "2026-05-15",
-    "startTime": "18:00",
-    "location": "8001 Zürich Zürich",
-    "city": "Zürich",
-    "category": "tanz-buehne",
-    "url": "https://www.tanzevents.ch/-events/de/events/salsa/freitags-in-zurich-kubanische-tanzkurse-mit-mijail-galano--son---rumba---timba---casino/8087/",
-    "source": "scraper"
-  },
-  {
     "id": "tanzevents-domingo-latino-2026-05-17",
     "title": "Domingo Latino",
     "startDate": "2026-05-17",
@@ -173,6 +140,17 @@
     "city": "Zürich",
     "category": "tanz-buehne",
     "url": "https://www.tanzevents.ch/-events/de/events/salsa/fridaynight--bananenreiferei/6697/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-freitags-in-z-rich-kubanische-tanzkurse-mit-mijail-galano-son-rumba-t",
+    "title": "Freitags in Zürich Kubanische Tanzkurse mit Mijail Galano ( Son - Rumba - Timba - Casino)",
+    "startDate": "2026-05-22",
+    "startTime": "18:00",
+    "location": "8001 Zürich Zürich",
+    "city": "Zürich",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/freitags-in-zurich-kubanische-tanzkurse-mit-mijail-galano--son---rumba---timba---casino/8088/",
     "source": "scraper"
   },
   {
@@ -561,6 +539,39 @@
     "source": "scraper"
   },
   {
+    "id": "tanzevents-salsa-anf-nger-2026-06-15",
+    "title": "Salsa Anfänger",
+    "startDate": "2026-06-15",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-anfanger/6497/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-fortgeschritten-2026-06-15",
+    "title": "Salsa Fortgeschritten",
+    "startDate": "2026-06-15",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-fortgeschritten/6516/",
+    "source": "scraper"
+  },
+  {
+    "id": "tanzevents-salsa-mittelstufe-2026-06-16",
+    "title": "Salsa Mittelstufe",
+    "startDate": "2026-06-16",
+    "startTime": "19:30",
+    "location": "Tösstalstrasse 160, 8400 Winterthur",
+    "city": "8400 Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://www.tanzevents.ch/-events/de/events/salsa/salsa-mittelstufe/6535/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-mu-vete-salsabar-am-montag-2026-05-18",
     "title": "muévete SalsaBar am Montag",
     "startDate": "2026-05-18",
@@ -580,18 +591,6 @@
     "endTime": "22:30",
     "location": "Sternensaal Bümpliz",
     "city": "Sternensaal Bümpliz",
-    "category": "tanz-buehne",
-    "url": "https://www.muevete.ch/salsaparties/",
-    "source": "scraper"
-  },
-  {
-    "id": "muevete-mu-vete-salsabar-am-montag-2026-05-25",
-    "title": "muévete SalsaBar am Montag",
-    "startDate": "2026-05-25",
-    "startTime": "20:00",
-    "endTime": "23:00",
-    "location": "Bern",
-    "city": "Bern",
     "category": "tanz-buehne",
     "url": "https://www.muevete.ch/salsaparties/",
     "source": "scraper"
@@ -669,6 +668,17 @@
     "source": "scraper"
   },
   {
+    "id": "muevete-sonntag-2026-07-05",
+    "title": "Sonntag",
+    "startDate": "2026-07-05",
+    "startTime": "18:30",
+    "location": "Bern",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.muevete.ch/salsaparties/",
+    "source": "scraper"
+  },
+  {
     "id": "muevete-muevete-salsawoche-1-2026-08-07",
     "title": "muevete Salsawoche 1. –",
     "startDate": "2026-08-07",
@@ -688,16 +698,6 @@
     "city": "Turtle Beach Faulensee",
     "category": "tanz-buehne",
     "url": "https://www.muevete.ch/salsaparties/",
-    "source": "scraper"
-  },
-  {
-    "id": "latinpromotion-salsa-im-dukes-sihl3-2026-05-15",
-    "title": "Salsa im Dukes Sihl3",
-    "startDate": "2026-05-15",
-    "location": "Freitag  , 8816 Sihlbrugg Gratis Eintritt ab 21:00 mit DJ Giovanni, bei schönem Wetter inkl. Outdoor!",
-    "city": "Freitag",
-    "category": "tanz-buehne",
-    "url": "https://www.latinpromotion.ch/salsa-kalender/",
     "source": "scraper"
   },
   {
@@ -731,6 +731,30 @@
     "source": "scraper"
   },
   {
+    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
+    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
+    "startDate": "2026-06-27",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
+    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
+    "title": "Saturday Ecstatic (PADMA SAM)",
+    "startDate": "2026-05-30",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
+    "city": "Bern",
+    "category": "tanz-buehne",
+    "url": "https://www.ecstaticdancebern.ch",
+    "source": "scraper"
+  },
+  {
     "id": "ecstaticdance-saturday-ecstatic-angela-alaska-2026-06-20",
     "title": "Saturday Ecstatic (ANGELA ALASKA)",
     "startDate": "2026-06-20",
@@ -743,9 +767,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
-    "title": "Saturday Ecstatic (ROMEO)",
-    "startDate": "2026-05-23",
+    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
+    "title": "Saturday Ecstatic (ATEMA)",
+    "startDate": "2026-06-13",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -755,9 +779,9 @@
     "source": "scraper"
   },
   {
-    "id": "ecstaticdance-saturday-ecstatic-atema-2026-06-13",
-    "title": "Saturday Ecstatic (ATEMA)",
-    "startDate": "2026-06-13",
+    "id": "ecstaticdance-saturday-ecstatic-romeo-2026-05-23",
+    "title": "Saturday Ecstatic (ROMEO)",
+    "startDate": "2026-05-23",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -782,30 +806,6 @@
     "id": "ecstaticdance-saturday-ecstatic-atema-2026-05-16",
     "title": "Saturday Ecstatic (ATEMA)",
     "startDate": "2026-05-16",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-padma-sam-2026-05-30",
-    "title": "Saturday Ecstatic (PADMA SAM)",
-    "startDate": "2026-05-30",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
-    "city": "Bern",
-    "category": "tanz-buehne",
-    "url": "https://www.ecstaticdancebern.ch",
-    "source": "scraper"
-  },
-  {
-    "id": "ecstaticdance-saturday-ecstatic-jonny-driscoll-zouk-2026-06-27",
-    "title": "Saturday Ecstatic (Jonny Driscoll Zouk)",
-    "startDate": "2026-06-27",
     "startTime": "18:00",
     "endTime": "20:00",
     "location": "Dance Complex, Vidmarhallen 3, Liebefeld",
@@ -925,48 +925,6 @@
     "source": "scraper"
   },
   {
-    "id": "danceapp-baila-salsa-bachata-2026-05-14",
-    "title": "BAILA SALSA & BACHATA",
-    "startDate": "2026-05-14",
-    "location": "Aarbergergasse 61, 3011 Bern",
-    "city": "Aarbergergasse 61, 3011 Bern",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6405",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-xplosion-ritmo-berlin-festival-2026-festival-of-next-generation-2026-05",
-    "title": "Xplosion RITMO BERLIN Festival 2026 - Festival of Next Generation",
-    "startDate": "2026-05-15",
-    "endDate": "2026-05-18",
-    "startTime": "14:00",
-    "location": "Berlin",
-    "city": "Berlin",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=6775",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-tanzschule-wil-ballett-und-tanz-unterricht-tanz-ballettschule-wil-meta-",
-    "title": "Tanzschule Wil – Ballett und Tanz Unterricht | Tanz-Ballettschule Wil · Meta",
-    "startDate": "2026-05-15",
-    "location": "Balettschule WIl",
-    "city": "Balettschule WIl",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=8028",
-    "source": "scraper"
-  },
-  {
-    "id": "danceapp-milonga-freitag-2026-05-15",
-    "title": "Milonga Freitag",
-    "startDate": "2026-05-15",
-    "location": "St.Gallen",
-    "city": "St.Gallen",
-    "category": "tanz-buehne",
-    "url": "https://danceapp.ch/event.php?id=8043",
-    "source": "scraper"
-  },
-  {
     "id": "danceapp-latin-fit-dance-by-natalia-naty-2026-05-16",
     "title": "Latin Fit Dance by Natalia (Naty)",
     "startDate": "2026-05-16",
@@ -1037,6 +995,30 @@
     "source": "scraper"
   },
   {
+    "id": "danceapp-pfingstparty-salsa-bachata-in-winterthur-2026-05-23",
+    "title": "PfingstParty – Salsa & Bachata in Winterthur",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-24",
+    "startTime": "20:00",
+    "location": "Winterthur",
+    "city": "Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8350",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-pfingst-special-party-in-winterthur-mit-salsa-bachata-2026-05-23",
+    "title": "Pfingst Special Party in Winterthur mit Salsa & Bachata",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-24",
+    "startTime": "20:00",
+    "location": "Winterthur",
+    "city": "Winterthur",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8351",
+    "source": "scraper"
+  },
+  {
     "id": "danceapp-diva-dance-classes-by-eva-wednesdays-2026-05-27",
     "title": "Diva Dance Classes by Eva (Wednesdays)",
     "startDate": "2026-05-27",
@@ -1084,6 +1066,18 @@
     "city": "Cham",
     "category": "tanz-buehne",
     "url": "https://danceapp.ch/event.php?id=7209",
+    "source": "scraper"
+  },
+  {
+    "id": "danceapp-bachata-village-party-in-st-gallen-2026-05-30",
+    "title": "Bachata Village Party in St. Gallen!!",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-31",
+    "startTime": "20:30",
+    "location": "St. Gallen",
+    "city": "St. Gallen",
+    "category": "tanz-buehne",
+    "url": "https://danceapp.ch/event.php?id=8344",
     "source": "scraper"
   },
   {
@@ -1270,44 +1264,6 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-noche-cubana-2026-05-14",
-    "title": "Noche Cubana",
-    "startDate": "2026-05-14",
-    "endDate": "2026-05-15",
-    "startTime": "21:00",
-    "endTime": "02:30",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/noche-cubana-14-05-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-xoxo-deconvolution-cancel-a-lost-game-2026-05-15",
-    "title": "XOXO, Deconvolution, Cancel & A Lost Game",
-    "startDate": "2026-05-15",
-    "endDate": "2026-05-16",
-    "startTime": "19:30",
-    "endTime": "04:00",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/xoxo-deconvolution-cancel-a-lost-game-15-05-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
-    "id": "schuur-dj-rubibubi-2026-05-15",
-    "title": "DJ RubiBubi",
-    "startDate": "2026-05-15",
-    "startTime": "23:00",
-    "endTime": "04:00",
-    "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/dj-rubibubi-15-05-2026-konzerthaus-schuur-luzern",
-    "source": "scraper"
-  },
-  {
     "id": "schuur-friedli-fr-nz-kilbimusig-2026-05-16",
     "title": "Friedli & Fränz Kilbimusig",
     "startDate": "2026-05-16",
@@ -1373,15 +1329,15 @@
     "source": "scraper"
   },
   {
-    "id": "schuur-jukebox-jam-rock-metal-2026-05-22",
-    "title": "Jukebox-Jam: Rock & Metal",
+    "id": "schuur-video-screen-party-2026-05-22",
+    "title": "Video Screen Party",
     "startDate": "2026-05-22",
-    "startTime": "23:00",
+    "startTime": "22:00",
     "endTime": "04:00",
     "location": "Konzerthaus Schüür, Tribschenstrasse 1, Luzern",
     "city": "Luzern",
     "category": "ausgehen",
-    "url": "https://www.schuur.ch/programm/events/event-details/jukebox-jam-rock-metal-22-05-2026-konzerthaus-schuur-luzern",
+    "url": "https://www.schuur.ch/programm/events/event-details/video-screen-party-konzerthaus-schuur-luzern",
     "source": "scraper"
   },
   {
@@ -2666,18 +2622,6 @@
     "source": "scraper"
   },
   {
-    "id": "jazzkantine-irish-night-mit-t-in-2026-05-15",
-    "title": "Irish Night mit Táin",
-    "startDate": "2026-05-15",
-    "startTime": "20:30",
-    "endTime": "23:00",
-    "location": "Jazzkantine, Grabenstrasse 8, Luzern",
-    "city": "Luzern",
-    "category": "ausgehen",
-    "url": "https://www.jazzkantine.com/veranstaltungen/irish-night-mit-tin",
-    "source": "scraper"
-  },
-  {
     "id": "jazzkantine-spargeltavolata-2026-05-23",
     "title": "Spargeltavolata",
     "startDate": "2026-05-23",
@@ -3196,56 +3140,6 @@
     "category": "retreats",
     "description": "Non-tantra festival about sexuality, relationships & body awareness.",
     "url": "https://www.sensualityfestival.com",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-free-energy-summit-2026-05-14",
-    "title": "FREE Energy Summit",
-    "startDate": "2026-05-14",
-    "location": "Lisbon, Portugal",
-    "city": "Lisbon",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/free-energy-summit",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-bitcoin-bush-bash-byron-bay-2026-05-15",
-    "title": "Bitcoin Bush Bash Byron Bay",
-    "startDate": "2026-05-15",
-    "location": "Byron Bay, Australia",
-    "city": "Byron Bay",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-bush-bash-byron-bay",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-bitcoin-economic-forum-2026-05-15",
-    "title": "Bitcoin Economic Forum",
-    "startDate": "2026-05-15",
-    "location": "Saint-Denis-d'Orques, France",
-    "city": "Saint-Denis-d'Orques",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-economic-forum",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-bitcoin-educators-academy-2026-05-15",
-    "title": "Bitcoin Educators Academy",
-    "startDate": "2026-05-15",
-    "location": "Manzanillo, Costa Rica",
-    "city": "Manzanillo",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/bitcoin-educators-academy",
-    "source": "scraper"
-  },
-  {
-    "id": "bitvocation-timechain-summit-2026-05-15",
-    "title": "TIMECHAIN™ Summit",
-    "startDate": "2026-05-15",
-    "location": "Denver, CO, U.S.",
-    "city": "Denver, CO",
-    "category": "festivals-konferenzen",
-    "url": "https://bitvocation.com/to/timechain-summit",
     "source": "scraper"
   },
   {
